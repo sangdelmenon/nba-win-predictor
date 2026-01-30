@@ -1,0 +1,2272 @@
+{
+  "Toronto Raptors": [
+    {
+      "name": "Scottie Barnes",
+      "impact": 68,
+      "ppg": 19.3
+    },
+    {
+      "name": "Jakob Poeltl",
+      "impact": 66,
+      "ppg": 14.5
+    },
+    {
+      "name": "RJ Barrett",
+      "impact": 66,
+      "ppg": 21.1
+    },
+    {
+      "name": "Brandon Ingram",
+      "impact": 62,
+      "ppg": 22.2
+    },
+    {
+      "name": "Immanuel Quickley",
+      "impact": 60,
+      "ppg": 17.1
+    },
+    {
+      "name": "Gradey Dick",
+      "impact": 55,
+      "ppg": 14.4
+    },
+    {
+      "name": "Ochai Agbaji",
+      "impact": 55,
+      "ppg": 10.4
+    },
+    {
+      "name": "Jonathan Mogbo",
+      "impact": 50,
+      "ppg": 6.2
+    },
+    {
+      "name": "A.J. Lawson",
+      "impact": 49,
+      "ppg": 9.1
+    },
+    {
+      "name": "Ja'Kobe Walter",
+      "impact": 49,
+      "ppg": 8.6
+    },
+    {
+      "name": "Jamal Shead",
+      "impact": 49,
+      "ppg": 7.1
+    },
+    {
+      "name": "Sandro Mamukelashvili",
+      "impact": 47,
+      "ppg": 6.3
+    },
+    {
+      "name": "Jamison Battle",
+      "impact": 46,
+      "ppg": 7.1
+    },
+    {
+      "name": "Garrett Temple",
+      "impact": 39,
+      "ppg": 1.9
+    }
+  ],
+  "Milwaukee Bucks": [
+    {
+      "name": "Giannis Antetokounmpo",
+      "impact": 82,
+      "ppg": 30.4
+    },
+    {
+      "name": "Myles Turner",
+      "impact": 64,
+      "ppg": 15.6
+    },
+    {
+      "name": "Bobby Portis",
+      "impact": 60,
+      "ppg": 13.9
+    },
+    {
+      "name": "Kyle Kuzma",
+      "impact": 56,
+      "ppg": 14.8
+    },
+    {
+      "name": "Kevin Porter Jr.",
+      "impact": 54,
+      "ppg": 10.3
+    },
+    {
+      "name": "Gary Trent Jr.",
+      "impact": 53,
+      "ppg": 11.1
+    },
+    {
+      "name": "Taurean Prince",
+      "impact": 53,
+      "ppg": 8.2
+    },
+    {
+      "name": "Amir Coffey",
+      "impact": 52,
+      "ppg": 9.7
+    },
+    {
+      "name": "Cole Anthony",
+      "impact": 51,
+      "ppg": 9.4
+    },
+    {
+      "name": "AJ Green",
+      "impact": 50,
+      "ppg": 7.4
+    },
+    {
+      "name": "Ryan Rollins",
+      "impact": 49,
+      "ppg": 6.2
+    },
+    {
+      "name": "Jericho Sims",
+      "impact": 47,
+      "ppg": 1.8
+    },
+    {
+      "name": "Andre Jackson Jr.",
+      "impact": 46,
+      "ppg": 3.4
+    },
+    {
+      "name": "Gary Harris",
+      "impact": 43,
+      "ppg": 3.0
+    },
+    {
+      "name": "Pete Nance",
+      "impact": 38,
+      "ppg": 2.9
+    }
+  ],
+  "Washington Wizards": [
+    {
+      "name": "Trae Young",
+      "impact": 72,
+      "ppg": 24.2
+    },
+    {
+      "name": "Khris Middleton",
+      "impact": 57,
+      "ppg": 11.9
+    },
+    {
+      "name": "Bilal Coulibaly",
+      "impact": 56,
+      "ppg": 12.3
+    },
+    {
+      "name": "Alex Sarr",
+      "impact": 55,
+      "ppg": 13.0
+    },
+    {
+      "name": "Bub Carrington",
+      "impact": 53,
+      "ppg": 9.8
+    },
+    {
+      "name": "Justin Champagnie",
+      "impact": 53,
+      "ppg": 8.8
+    },
+    {
+      "name": "Kyshawn George",
+      "impact": 51,
+      "ppg": 8.7
+    },
+    {
+      "name": "Tristan Vukcevic",
+      "impact": 50,
+      "ppg": 9.4
+    },
+    {
+      "name": "Cam Whitmore",
+      "impact": 49,
+      "ppg": 9.4
+    },
+    {
+      "name": "AJ Johnson",
+      "impact": 47,
+      "ppg": 7.6
+    },
+    {
+      "name": "Marvin Bagley III",
+      "impact": 45,
+      "ppg": 4.4
+    },
+    {
+      "name": "Malaki Branham",
+      "impact": 43,
+      "ppg": 5.0
+    },
+    {
+      "name": "Anthony Gill",
+      "impact": 41,
+      "ppg": 2.5
+    },
+    {
+      "name": "Skal Labissiere",
+      "impact": 32,
+      "ppg": 1.3
+    }
+  ],
+  "Denver Nuggets": [
+    {
+      "name": "Nikola Joki\u0107",
+      "impact": 88,
+      "ppg": 29.6
+    },
+    {
+      "name": "Jamal Murray",
+      "impact": 70,
+      "ppg": 21.4
+    },
+    {
+      "name": "Christian Braun",
+      "impact": 66,
+      "ppg": 15.4
+    },
+    {
+      "name": "Aaron Gordon",
+      "impact": 63,
+      "ppg": 14.7
+    },
+    {
+      "name": "Cameron Johnson",
+      "impact": 62,
+      "ppg": 18.8
+    },
+    {
+      "name": "Jonas Valan\u010di\u016bnas",
+      "impact": 56,
+      "ppg": 10.4
+    },
+    {
+      "name": "Peyton Watson",
+      "impact": 54,
+      "ppg": 8.1
+    },
+    {
+      "name": "Tim Hardaway Jr.",
+      "impact": 52,
+      "ppg": 11.0
+    },
+    {
+      "name": "Bruce Brown",
+      "impact": 50,
+      "ppg": 8.3
+    },
+    {
+      "name": "Julian Strawther",
+      "impact": 50,
+      "ppg": 9.0
+    },
+    {
+      "name": "Jalen Pickett",
+      "impact": 45,
+      "ppg": 4.1
+    },
+    {
+      "name": "Zeke Nnaji",
+      "impact": 45,
+      "ppg": 3.2
+    },
+    {
+      "name": "Hunter Tyson",
+      "impact": 39,
+      "ppg": 2.6
+    },
+    {
+      "name": "Spencer Jones",
+      "impact": 37,
+      "ppg": 1.3
+    }
+  ],
+  "Houston Rockets": [
+    {
+      "name": "Kevin Durant",
+      "impact": 73,
+      "ppg": 26.6
+    },
+    {
+      "name": "Alperen Sengun",
+      "impact": 71,
+      "ppg": 19.1
+    },
+    {
+      "name": "Amen Thompson",
+      "impact": 68,
+      "ppg": 14.1
+    },
+    {
+      "name": "Fred VanVleet",
+      "impact": 63,
+      "ppg": 14.1
+    },
+    {
+      "name": "Tari Eason",
+      "impact": 60,
+      "ppg": 12.0
+    },
+    {
+      "name": "Jabari Smith Jr.",
+      "impact": 59,
+      "ppg": 12.2
+    },
+    {
+      "name": "Clint Capela",
+      "impact": 57,
+      "ppg": 8.9
+    },
+    {
+      "name": "Dorian Finney-Smith",
+      "impact": 56,
+      "ppg": 8.7
+    },
+    {
+      "name": "Steven Adams",
+      "impact": 51,
+      "ppg": 3.9
+    },
+    {
+      "name": "Josh Okogie",
+      "impact": 49,
+      "ppg": 7.1
+    },
+    {
+      "name": "Jeff Green",
+      "impact": 46,
+      "ppg": 5.4
+    },
+    {
+      "name": "Aaron Holiday",
+      "impact": 45,
+      "ppg": 5.5
+    },
+    {
+      "name": "Jae'Sean Tate",
+      "impact": 45,
+      "ppg": 3.6
+    },
+    {
+      "name": "Reed Sheppard",
+      "impact": 42,
+      "ppg": 4.4
+    },
+    {
+      "name": "Isaiah Crawford",
+      "impact": 37,
+      "ppg": 0.9
+    },
+    {
+      "name": "JD Davison",
+      "impact": 36,
+      "ppg": 2.1
+    },
+    {
+      "name": "Tristen Newton",
+      "impact": 32,
+      "ppg": 0.4
+    }
+  ],
+  "Indiana Pacers": [
+    {
+      "name": "Tyrese Haliburton",
+      "impact": 70,
+      "ppg": 18.6
+    },
+    {
+      "name": "Pascal Siakam",
+      "impact": 68,
+      "ppg": 20.2
+    },
+    {
+      "name": "Bennedict Mathurin",
+      "impact": 60,
+      "ppg": 16.1
+    },
+    {
+      "name": "Andrew Nembhard",
+      "impact": 59,
+      "ppg": 10.0
+    },
+    {
+      "name": "Aaron Nesmith",
+      "impact": 58,
+      "ppg": 12.0
+    },
+    {
+      "name": "T.J. McConnell",
+      "impact": 55,
+      "ppg": 9.1
+    },
+    {
+      "name": "Obi Toppin",
+      "impact": 54,
+      "ppg": 10.5
+    },
+    {
+      "name": "Jarace Walker",
+      "impact": 48,
+      "ppg": 6.1
+    },
+    {
+      "name": "Jay Huff",
+      "impact": 48,
+      "ppg": 6.9
+    },
+    {
+      "name": "Quenton Jackson",
+      "impact": 48,
+      "ppg": 5.8
+    },
+    {
+      "name": "Ben Sheppard",
+      "impact": 47,
+      "ppg": 5.3
+    },
+    {
+      "name": "Micah Potter",
+      "impact": 46,
+      "ppg": 4.3
+    },
+    {
+      "name": "Johnny Furphy",
+      "impact": 40,
+      "ppg": 2.1
+    },
+    {
+      "name": "Isaiah Jackson",
+      "impact": 36,
+      "ppg": 7.0
+    }
+  ],
+  "Oklahoma City Thunder": [
+    {
+      "name": "Shai Gilgeous-Alexander",
+      "impact": 81,
+      "ppg": 32.7
+    },
+    {
+      "name": "Jalen Williams",
+      "impact": 71,
+      "ppg": 21.6
+    },
+    {
+      "name": "Isaiah Hartenstein",
+      "impact": 67,
+      "ppg": 11.2
+    },
+    {
+      "name": "Chet Holmgren",
+      "impact": 66,
+      "ppg": 15.0
+    },
+    {
+      "name": "Aaron Wiggins",
+      "impact": 58,
+      "ppg": 12.0
+    },
+    {
+      "name": "Cason Wallace",
+      "impact": 58,
+      "ppg": 8.4
+    },
+    {
+      "name": "Luguentz Dort",
+      "impact": 58,
+      "ppg": 10.1
+    },
+    {
+      "name": "Alex Caruso",
+      "impact": 54,
+      "ppg": 7.1
+    },
+    {
+      "name": "Isaiah Joe",
+      "impact": 54,
+      "ppg": 10.2
+    },
+    {
+      "name": "Jaylin Williams",
+      "impact": 53,
+      "ppg": 5.9
+    },
+    {
+      "name": "Kenrich Williams",
+      "impact": 51,
+      "ppg": 6.3
+    },
+    {
+      "name": "Ajay Mitchell",
+      "impact": 50,
+      "ppg": 6.5
+    },
+    {
+      "name": "Ousmane Dieng",
+      "impact": 44,
+      "ppg": 3.8
+    },
+    {
+      "name": "Branden Carlson",
+      "impact": 43,
+      "ppg": 3.8
+    }
+  ],
+  "Philadelphia 76ers": [
+    {
+      "name": "Tyrese Maxey",
+      "impact": 70,
+      "ppg": 26.3
+    },
+    {
+      "name": "Joel Embiid",
+      "impact": 66,
+      "ppg": 23.8
+    },
+    {
+      "name": "Paul George",
+      "impact": 63,
+      "ppg": 16.2
+    },
+    {
+      "name": "Kelly Oubre Jr.",
+      "impact": 61,
+      "ppg": 15.1
+    },
+    {
+      "name": "Quentin Grimes",
+      "impact": 58,
+      "ppg": 14.6
+    },
+    {
+      "name": "Jared McCain",
+      "impact": 56,
+      "ppg": 15.3
+    },
+    {
+      "name": "Trendon Watford",
+      "impact": 53,
+      "ppg": 10.2
+    },
+    {
+      "name": "Andre Drummond",
+      "impact": 52,
+      "ppg": 7.3
+    },
+    {
+      "name": "Justin Edwards",
+      "impact": 52,
+      "ppg": 10.1
+    },
+    {
+      "name": "Adem Bona",
+      "impact": 51,
+      "ppg": 5.8
+    },
+    {
+      "name": "Eric Gordon",
+      "impact": 48,
+      "ppg": 6.8
+    },
+    {
+      "name": "Jabari Walker",
+      "impact": 48,
+      "ppg": 5.2
+    },
+    {
+      "name": "Charles Bassey",
+      "impact": 47,
+      "ppg": 4.4
+    },
+    {
+      "name": "Dominick Barlow",
+      "impact": 46,
+      "ppg": 4.2
+    },
+    {
+      "name": "Kyle Lowry",
+      "impact": 45,
+      "ppg": 3.9
+    },
+    {
+      "name": "MarJon Beauchamp",
+      "impact": 39,
+      "ppg": 2.3
+    }
+  ],
+  "Golden State Warriors": [
+    {
+      "name": "Stephen Curry",
+      "impact": 70,
+      "ppg": 24.5
+    },
+    {
+      "name": "Jimmy Butler III",
+      "impact": 68,
+      "ppg": 17.5
+    },
+    {
+      "name": "Draymond Green",
+      "impact": 61,
+      "ppg": 9.0
+    },
+    {
+      "name": "Brandin Podziemski",
+      "impact": 59,
+      "ppg": 11.7
+    },
+    {
+      "name": "Jonathan Kuminga",
+      "impact": 58,
+      "ppg": 15.3
+    },
+    {
+      "name": "Al Horford",
+      "impact": 57,
+      "ppg": 9.0
+    },
+    {
+      "name": "Buddy Hield",
+      "impact": 53,
+      "ppg": 11.1
+    },
+    {
+      "name": "Moses Moody",
+      "impact": 52,
+      "ppg": 9.8
+    },
+    {
+      "name": "Trayce Jackson-Davis",
+      "impact": 52,
+      "ppg": 6.6
+    },
+    {
+      "name": "Gary Payton II",
+      "impact": 51,
+      "ppg": 6.5
+    },
+    {
+      "name": "Quinten Post",
+      "impact": 50,
+      "ppg": 8.1
+    },
+    {
+      "name": "Gui Santos",
+      "impact": 47,
+      "ppg": 4.1
+    },
+    {
+      "name": "Seth Curry",
+      "impact": 46,
+      "ppg": 6.5
+    },
+    {
+      "name": "Pat Spencer",
+      "impact": 40,
+      "ppg": 2.5
+    },
+    {
+      "name": "De'Anthony Melton",
+      "impact": 37,
+      "ppg": 10.3
+    },
+    {
+      "name": "Malevy Leons",
+      "impact": 31,
+      "ppg": 0.3
+    }
+  ],
+  "Miami Heat": [
+    {
+      "name": "Tyler Herro",
+      "impact": 70,
+      "ppg": 23.9
+    },
+    {
+      "name": "Bam Adebayo",
+      "impact": 69,
+      "ppg": 18.1
+    },
+    {
+      "name": "Norman Powell",
+      "impact": 66,
+      "ppg": 21.8
+    },
+    {
+      "name": "Andrew Wiggins",
+      "impact": 61,
+      "ppg": 18.0
+    },
+    {
+      "name": "Kel'el Ware",
+      "impact": 58,
+      "ppg": 9.3
+    },
+    {
+      "name": "Davion Mitchell",
+      "impact": 56,
+      "ppg": 7.9
+    },
+    {
+      "name": "Nikola Jovi\u0107",
+      "impact": 55,
+      "ppg": 10.7
+    },
+    {
+      "name": "Jaime Jaquez Jr.",
+      "impact": 52,
+      "ppg": 8.6
+    },
+    {
+      "name": "Terry Rozier",
+      "impact": 52,
+      "ppg": 10.6
+    },
+    {
+      "name": "Dru Smith",
+      "impact": 46,
+      "ppg": 6.2
+    },
+    {
+      "name": "Simone Fontecchio",
+      "impact": 46,
+      "ppg": 5.9
+    },
+    {
+      "name": "Pelle Larsson",
+      "impact": 45,
+      "ppg": 4.6
+    },
+    {
+      "name": "Keshad Johnson",
+      "impact": 41,
+      "ppg": 2.7
+    },
+    {
+      "name": "Jahmir Young",
+      "impact": 34,
+      "ppg": 1.8
+    }
+  ],
+  "Boston Celtics": [
+    {
+      "name": "Jayson Tatum",
+      "impact": 76,
+      "ppg": 26.8
+    },
+    {
+      "name": "Jaylen Brown",
+      "impact": 70,
+      "ppg": 22.2
+    },
+    {
+      "name": "Derrick White",
+      "impact": 66,
+      "ppg": 16.4
+    },
+    {
+      "name": "Anfernee Simons",
+      "impact": 61,
+      "ppg": 19.3
+    },
+    {
+      "name": "Payton Pritchard",
+      "impact": 61,
+      "ppg": 14.3
+    },
+    {
+      "name": "Chris Boucher",
+      "impact": 52,
+      "ppg": 10.0
+    },
+    {
+      "name": "Sam Hauser",
+      "impact": 52,
+      "ppg": 8.5
+    },
+    {
+      "name": "Neemias Queta",
+      "impact": 50,
+      "ppg": 5.0
+    },
+    {
+      "name": "Baylor Scheierman",
+      "impact": 42,
+      "ppg": 3.6
+    },
+    {
+      "name": "Josh Minott",
+      "impact": 42,
+      "ppg": 2.6
+    },
+    {
+      "name": "Luka Garza",
+      "impact": 42,
+      "ppg": 3.5
+    },
+    {
+      "name": "Jordan Walsh",
+      "impact": 38,
+      "ppg": 1.6
+    },
+    {
+      "name": "Xavier Tillman",
+      "impact": 37,
+      "ppg": 1.0
+    },
+    {
+      "name": "Ron Harper Jr.",
+      "impact": 31,
+      "ppg": 4.0
+    }
+  ],
+  "Orlando Magic": [
+    {
+      "name": "Franz Wagner",
+      "impact": 70,
+      "ppg": 24.2
+    },
+    {
+      "name": "Paolo Banchero",
+      "impact": 70,
+      "ppg": 25.9
+    },
+    {
+      "name": "Desmond Bane",
+      "impact": 68,
+      "ppg": 19.2
+    },
+    {
+      "name": "Jalen Suggs",
+      "impact": 61,
+      "ppg": 16.2
+    },
+    {
+      "name": "Goga Bitadze",
+      "impact": 57,
+      "ppg": 7.2
+    },
+    {
+      "name": "Moritz Wagner",
+      "impact": 57,
+      "ppg": 12.9
+    },
+    {
+      "name": "Tyus Jones",
+      "impact": 56,
+      "ppg": 10.2
+    },
+    {
+      "name": "Wendell Carter Jr.",
+      "impact": 56,
+      "ppg": 9.1
+    },
+    {
+      "name": "Anthony Black",
+      "impact": 54,
+      "ppg": 9.4
+    },
+    {
+      "name": "Orlando Robinson",
+      "impact": 49,
+      "ppg": 6.9
+    },
+    {
+      "name": "Colin Castleton",
+      "impact": 48,
+      "ppg": 4.7
+    },
+    {
+      "name": "Jonathan Isaac",
+      "impact": 48,
+      "ppg": 5.4
+    },
+    {
+      "name": "Tristan da Silva",
+      "impact": 48,
+      "ppg": 7.2
+    },
+    {
+      "name": "Jamal Cain",
+      "impact": 44,
+      "ppg": 5.3
+    },
+    {
+      "name": "Jett Howard",
+      "impact": 41,
+      "ppg": 4.5
+    }
+  ],
+  "Dallas Mavericks": [
+    {
+      "name": "Anthony Davis",
+      "impact": 75,
+      "ppg": 24.7
+    },
+    {
+      "name": "Kyrie Irving",
+      "impact": 71,
+      "ppg": 24.7
+    },
+    {
+      "name": "P.J. Washington",
+      "impact": 63,
+      "ppg": 14.7
+    },
+    {
+      "name": "Daniel Gafford",
+      "impact": 60,
+      "ppg": 12.3
+    },
+    {
+      "name": "Dereck Lively II",
+      "impact": 60,
+      "ppg": 8.7
+    },
+    {
+      "name": "Naji Marshall",
+      "impact": 59,
+      "ppg": 13.2
+    },
+    {
+      "name": "D'Angelo Russell",
+      "impact": 56,
+      "ppg": 12.6
+    },
+    {
+      "name": "Klay Thompson",
+      "impact": 55,
+      "ppg": 14.0
+    },
+    {
+      "name": "Max Christie",
+      "impact": 53,
+      "ppg": 9.6
+    },
+    {
+      "name": "Caleb Martin",
+      "impact": 52,
+      "ppg": 7.9
+    },
+    {
+      "name": "Brandon Williams",
+      "impact": 51,
+      "ppg": 8.3
+    },
+    {
+      "name": "Dant\u00e9 Exum",
+      "impact": 51,
+      "ppg": 8.7
+    },
+    {
+      "name": "Jaden Hardy",
+      "impact": 48,
+      "ppg": 8.7
+    },
+    {
+      "name": "Dwight Powell",
+      "impact": 46,
+      "ppg": 2.1
+    }
+  ],
+  "Minnesota Timberwolves": [
+    {
+      "name": "Anthony Edwards",
+      "impact": 73,
+      "ppg": 27.6
+    },
+    {
+      "name": "Julius Randle",
+      "impact": 67,
+      "ppg": 18.7
+    },
+    {
+      "name": "Rudy Gobert",
+      "impact": 67,
+      "ppg": 12.0
+    },
+    {
+      "name": "Jaden McDaniels",
+      "impact": 61,
+      "ppg": 12.2
+    },
+    {
+      "name": "Naz Reid",
+      "impact": 61,
+      "ppg": 14.2
+    },
+    {
+      "name": "Donte DiVincenzo",
+      "impact": 57,
+      "ppg": 11.7
+    },
+    {
+      "name": "Mike Conley",
+      "impact": 54,
+      "ppg": 8.2
+    },
+    {
+      "name": "Johnny Juzang",
+      "impact": 48,
+      "ppg": 8.9
+    },
+    {
+      "name": "Jaylen Clark",
+      "impact": 45,
+      "ppg": 4.1
+    },
+    {
+      "name": "Terrence Shannon Jr.",
+      "impact": 45,
+      "ppg": 4.3
+    },
+    {
+      "name": "Bones Hyland",
+      "impact": 44,
+      "ppg": 6.2
+    },
+    {
+      "name": "Rob Dillingham",
+      "impact": 44,
+      "ppg": 4.5
+    },
+    {
+      "name": "Enrique Freeman",
+      "impact": 40,
+      "ppg": 2.1
+    },
+    {
+      "name": "Joe Ingles",
+      "impact": 37,
+      "ppg": 0.8
+    },
+    {
+      "name": "Leonard Miller",
+      "impact": 34,
+      "ppg": 1.5
+    }
+  ],
+  "Charlotte Hornets": [
+    {
+      "name": "LaMelo Ball",
+      "impact": 68,
+      "ppg": 25.2
+    },
+    {
+      "name": "Miles Bridges",
+      "impact": 64,
+      "ppg": 20.3
+    },
+    {
+      "name": "Brandon Miller",
+      "impact": 63,
+      "ppg": 21.0
+    },
+    {
+      "name": "Collin Sexton",
+      "impact": 60,
+      "ppg": 18.4
+    },
+    {
+      "name": "Mason Plumlee",
+      "impact": 53,
+      "ppg": 4.5
+    },
+    {
+      "name": "Grant Williams",
+      "impact": 52,
+      "ppg": 10.4
+    },
+    {
+      "name": "Moussa Diabat\u00e9",
+      "impact": 52,
+      "ppg": 5.7
+    },
+    {
+      "name": "Josh Green",
+      "impact": 50,
+      "ppg": 7.4
+    },
+    {
+      "name": "KJ Simpson",
+      "impact": 47,
+      "ppg": 7.8
+    },
+    {
+      "name": "Pat Connaughton",
+      "impact": 47,
+      "ppg": 5.3
+    },
+    {
+      "name": "Antonio Reeves",
+      "impact": 46,
+      "ppg": 6.9
+    },
+    {
+      "name": "Tre Mann",
+      "impact": 46,
+      "ppg": 14.1
+    },
+    {
+      "name": "Tidjane Sala\u00fcn",
+      "impact": 45,
+      "ppg": 5.9
+    },
+    {
+      "name": "PJ Hall",
+      "impact": 41,
+      "ppg": 1.7
+    }
+  ],
+  "New York Knicks": [
+    {
+      "name": "Karl-Anthony Towns",
+      "impact": 76,
+      "ppg": 24.4
+    },
+    {
+      "name": "Jalen Brunson",
+      "impact": 72,
+      "ppg": 26.0
+    },
+    {
+      "name": "Josh Hart",
+      "impact": 70,
+      "ppg": 13.6
+    },
+    {
+      "name": "Mikal Bridges",
+      "impact": 66,
+      "ppg": 17.6
+    },
+    {
+      "name": "OG Anunoby",
+      "impact": 66,
+      "ppg": 18.0
+    },
+    {
+      "name": "Guerschon Yabusele",
+      "impact": 57,
+      "ppg": 11.0
+    },
+    {
+      "name": "Jordan Clarkson",
+      "impact": 56,
+      "ppg": 16.2
+    },
+    {
+      "name": "Miles McBride",
+      "impact": 54,
+      "ppg": 9.5
+    },
+    {
+      "name": "Mitchell Robinson",
+      "impact": 50,
+      "ppg": 5.1
+    },
+    {
+      "name": "Landry Shamet",
+      "impact": 46,
+      "ppg": 5.7
+    },
+    {
+      "name": "Trey Jemison III",
+      "impact": 46,
+      "ppg": 2.5
+    },
+    {
+      "name": "Ariel Hukporti",
+      "impact": 44,
+      "ppg": 1.9
+    },
+    {
+      "name": "Dillon Jones",
+      "impact": 42,
+      "ppg": 2.5
+    },
+    {
+      "name": "Tyler Kolek",
+      "impact": 39,
+      "ppg": 2.0
+    },
+    {
+      "name": "Pac\u00f4me Dadiet",
+      "impact": 36,
+      "ppg": 1.7
+    },
+    {
+      "name": "Kevin McCullar Jr.",
+      "impact": 32,
+      "ppg": 1.5
+    }
+  ],
+  "Detroit Pistons": [
+    {
+      "name": "Cade Cunningham",
+      "impact": 76,
+      "ppg": 26.1
+    },
+    {
+      "name": "Jalen Duren",
+      "impact": 63,
+      "ppg": 11.8
+    },
+    {
+      "name": "Tobias Harris",
+      "impact": 62,
+      "ppg": 13.7
+    },
+    {
+      "name": "Jaden Ivey",
+      "impact": 61,
+      "ppg": 17.6
+    },
+    {
+      "name": "Ausar Thompson",
+      "impact": 59,
+      "ppg": 10.1
+    },
+    {
+      "name": "Caris LeVert",
+      "impact": 58,
+      "ppg": 12.1
+    },
+    {
+      "name": "Isaiah Stewart",
+      "impact": 55,
+      "ppg": 6.0
+    },
+    {
+      "name": "Duncan Robinson",
+      "impact": 53,
+      "ppg": 11.0
+    },
+    {
+      "name": "Marcus Sasser",
+      "impact": 48,
+      "ppg": 6.6
+    },
+    {
+      "name": "Ronald Holland II",
+      "impact": 48,
+      "ppg": 6.4
+    },
+    {
+      "name": "Javonte Green",
+      "impact": 47,
+      "ppg": 5.1
+    },
+    {
+      "name": "Paul Reed",
+      "impact": 47,
+      "ppg": 4.1
+    },
+    {
+      "name": "Wendell Moore Jr.",
+      "impact": 45,
+      "ppg": 4.2
+    },
+    {
+      "name": "Isaac Jones",
+      "impact": 44,
+      "ppg": 3.4
+    },
+    {
+      "name": "Bobi Klintman",
+      "impact": 35,
+      "ppg": 1.9
+    },
+    {
+      "name": "Daniss Jenkins",
+      "impact": 32,
+      "ppg": 1.0
+    },
+    {
+      "name": "Tolu Smith",
+      "impact": 31,
+      "ppg": 14.0
+    }
+  ],
+  "Los Angeles Lakers": [
+    {
+      "name": "Luka Don\u010di\u0107",
+      "impact": 78,
+      "ppg": 28.2
+    },
+    {
+      "name": "LeBron James",
+      "impact": 75,
+      "ppg": 24.4
+    },
+    {
+      "name": "Austin Reaves",
+      "impact": 68,
+      "ppg": 20.2
+    },
+    {
+      "name": "Deandre Ayton",
+      "impact": 63,
+      "ppg": 14.4
+    },
+    {
+      "name": "Rui Hachimura",
+      "impact": 60,
+      "ppg": 13.1
+    },
+    {
+      "name": "Jaxson Hayes",
+      "impact": 54,
+      "ppg": 6.8
+    },
+    {
+      "name": "Jake LaRavia",
+      "impact": 53,
+      "ppg": 6.9
+    },
+    {
+      "name": "Marcus Smart",
+      "impact": 51,
+      "ppg": 9.0
+    },
+    {
+      "name": "Jarred Vanderbilt",
+      "impact": 50,
+      "ppg": 4.1
+    },
+    {
+      "name": "Dalton Knecht",
+      "impact": 49,
+      "ppg": 9.1
+    },
+    {
+      "name": "Gabe Vincent",
+      "impact": 48,
+      "ppg": 6.4
+    },
+    {
+      "name": "Nick Smith Jr.",
+      "impact": 48,
+      "ppg": 9.9
+    },
+    {
+      "name": "Maxi Kleber",
+      "impact": 45,
+      "ppg": 3.0
+    },
+    {
+      "name": "Drew Timme",
+      "impact": 41,
+      "ppg": 12.1
+    },
+    {
+      "name": "Bronny James",
+      "impact": 37,
+      "ppg": 2.3
+    }
+  ],
+  "Chicago Bulls": [
+    {
+      "name": "Nikola Vu\u010devi\u0107",
+      "impact": 68,
+      "ppg": 18.5
+    },
+    {
+      "name": "Josh Giddey",
+      "impact": 66,
+      "ppg": 14.6
+    },
+    {
+      "name": "Coby White",
+      "impact": 64,
+      "ppg": 20.4
+    },
+    {
+      "name": "Ayo Dosunmu",
+      "impact": 58,
+      "ppg": 12.3
+    },
+    {
+      "name": "Kevin Huerter",
+      "impact": 54,
+      "ppg": 9.9
+    },
+    {
+      "name": "Tre Jones",
+      "impact": 54,
+      "ppg": 7.2
+    },
+    {
+      "name": "Matas Buzelis",
+      "impact": 51,
+      "ppg": 8.6
+    },
+    {
+      "name": "Patrick Williams",
+      "impact": 51,
+      "ppg": 9.0
+    },
+    {
+      "name": "Zach Collins",
+      "impact": 51,
+      "ppg": 6.4
+    },
+    {
+      "name": "Isaac Okoro",
+      "impact": 50,
+      "ppg": 6.1
+    },
+    {
+      "name": "Jalen Smith",
+      "impact": 50,
+      "ppg": 8.2
+    },
+    {
+      "name": "Dalen Terry",
+      "impact": 45,
+      "ppg": 4.5
+    },
+    {
+      "name": "Julian Phillips",
+      "impact": 45,
+      "ppg": 4.6
+    },
+    {
+      "name": "Jevon Carter",
+      "impact": 42,
+      "ppg": 4.3
+    },
+    {
+      "name": "Yuki Kawamura",
+      "impact": 38,
+      "ppg": 1.6
+    },
+    {
+      "name": "Emanuel Miller",
+      "impact": 33,
+      "ppg": 1.7
+    }
+  ],
+  "San Antonio Spurs": [
+    {
+      "name": "Victor Wembanyama",
+      "impact": 76,
+      "ppg": 24.3
+    },
+    {
+      "name": "De'Aaron Fox",
+      "impact": 70,
+      "ppg": 23.5
+    },
+    {
+      "name": "Devin Vassell",
+      "impact": 59,
+      "ppg": 16.3
+    },
+    {
+      "name": "Jeremy Sochan",
+      "impact": 59,
+      "ppg": 11.4
+    },
+    {
+      "name": "Harrison Barnes",
+      "impact": 57,
+      "ppg": 12.3
+    },
+    {
+      "name": "Stephon Castle",
+      "impact": 57,
+      "ppg": 14.7
+    },
+    {
+      "name": "Keldon Johnson",
+      "impact": 55,
+      "ppg": 12.7
+    },
+    {
+      "name": "Luke Kornet",
+      "impact": 55,
+      "ppg": 6.0
+    },
+    {
+      "name": "Kelly Olynyk",
+      "impact": 54,
+      "ppg": 8.7
+    },
+    {
+      "name": "Bismack Biyombo",
+      "impact": 52,
+      "ppg": 5.1
+    },
+    {
+      "name": "Julian Champagnie",
+      "impact": 52,
+      "ppg": 9.9
+    },
+    {
+      "name": "Lindy Waters III",
+      "impact": 44,
+      "ppg": 4.9
+    },
+    {
+      "name": "Jordan McLaughlin",
+      "impact": 41,
+      "ppg": 2.1
+    },
+    {
+      "name": "Stanley Umude",
+      "impact": 36,
+      "ppg": 0.7
+    },
+    {
+      "name": "Harrison Ingram",
+      "impact": 34,
+      "ppg": 0.8
+    }
+  ],
+  "Portland Trail Blazers": [
+    {
+      "name": "Damian Lillard",
+      "impact": 71,
+      "ppg": 24.9
+    },
+    {
+      "name": "Deni Avdija",
+      "impact": 64,
+      "ppg": 16.9
+    },
+    {
+      "name": "Shaedon Sharpe",
+      "impact": 61,
+      "ppg": 18.5
+    },
+    {
+      "name": "Jrue Holiday",
+      "impact": 60,
+      "ppg": 11.1
+    },
+    {
+      "name": "Toumani Camara",
+      "impact": 59,
+      "ppg": 11.3
+    },
+    {
+      "name": "Scoot Henderson",
+      "impact": 57,
+      "ppg": 12.7
+    },
+    {
+      "name": "Donovan Clingan",
+      "impact": 56,
+      "ppg": 6.5
+    },
+    {
+      "name": "Jerami Grant",
+      "impact": 56,
+      "ppg": 14.4
+    },
+    {
+      "name": "Robert Williams III",
+      "impact": 54,
+      "ppg": 5.8
+    },
+    {
+      "name": "Matisse Thybulle",
+      "impact": 48,
+      "ppg": 7.5
+    },
+    {
+      "name": "Kris Murray",
+      "impact": 45,
+      "ppg": 4.2
+    },
+    {
+      "name": "Blake Wesley",
+      "impact": 44,
+      "ppg": 3.7
+    },
+    {
+      "name": "Duop Reath",
+      "impact": 43,
+      "ppg": 4.2
+    },
+    {
+      "name": "Rayan Rupert",
+      "impact": 40,
+      "ppg": 3.0
+    },
+    {
+      "name": "Sidy Cissoko",
+      "impact": 39,
+      "ppg": 1.5
+    }
+  ],
+  "Los Angeles Clippers": [
+    {
+      "name": "James Harden",
+      "impact": 73,
+      "ppg": 22.8
+    },
+    {
+      "name": "Ivica Zubac",
+      "impact": 71,
+      "ppg": 16.8
+    },
+    {
+      "name": "Kawhi Leonard",
+      "impact": 70,
+      "ppg": 21.5
+    },
+    {
+      "name": "John Collins",
+      "impact": 66,
+      "ppg": 19.0
+    },
+    {
+      "name": "Brook Lopez",
+      "impact": 62,
+      "ppg": 13.0
+    },
+    {
+      "name": "Bradley Beal",
+      "impact": 61,
+      "ppg": 17.0
+    },
+    {
+      "name": "Chris Paul",
+      "impact": 59,
+      "ppg": 8.8
+    },
+    {
+      "name": "Derrick Jones Jr.",
+      "impact": 56,
+      "ppg": 10.1
+    },
+    {
+      "name": "Bogdan Bogdanovi\u0107",
+      "impact": 54,
+      "ppg": 10.8
+    },
+    {
+      "name": "Kris Dunn",
+      "impact": 54,
+      "ppg": 6.4
+    },
+    {
+      "name": "Nicolas Batum",
+      "impact": 48,
+      "ppg": 4.0
+    },
+    {
+      "name": "Jordan Miller",
+      "impact": 43,
+      "ppg": 4.1
+    },
+    {
+      "name": "Kobe Brown",
+      "impact": 41,
+      "ppg": 1.9
+    },
+    {
+      "name": "TyTy Washington Jr.",
+      "impact": 37,
+      "ppg": 2.2
+    },
+    {
+      "name": "Cam Christie",
+      "impact": 34,
+      "ppg": 1.4
+    }
+  ],
+  "Memphis Grizzlies": [
+    {
+      "name": "Ja Morant",
+      "impact": 70,
+      "ppg": 23.2
+    },
+    {
+      "name": "Jaren Jackson Jr.",
+      "impact": 68,
+      "ppg": 22.2
+    },
+    {
+      "name": "Santi Aldama",
+      "impact": 60,
+      "ppg": 12.5
+    },
+    {
+      "name": "Zach Edey",
+      "impact": 59,
+      "ppg": 9.2
+    },
+    {
+      "name": "Ty Jerome",
+      "impact": 58,
+      "ppg": 12.5
+    },
+    {
+      "name": "Scotty Pippen Jr.",
+      "impact": 56,
+      "ppg": 9.9
+    },
+    {
+      "name": "Brandon Clarke",
+      "impact": 55,
+      "ppg": 8.3
+    },
+    {
+      "name": "Jaylen Wells",
+      "impact": 54,
+      "ppg": 10.4
+    },
+    {
+      "name": "Kentavious Caldwell-Pope",
+      "impact": 54,
+      "ppg": 8.7
+    },
+    {
+      "name": "Vince Williams Jr.",
+      "impact": 48,
+      "ppg": 6.6
+    },
+    {
+      "name": "Jock Landale",
+      "impact": 47,
+      "ppg": 4.8
+    },
+    {
+      "name": "GG Jackson",
+      "impact": 45,
+      "ppg": 7.2
+    },
+    {
+      "name": "John Konchar",
+      "impact": 45,
+      "ppg": 2.4
+    },
+    {
+      "name": "Cam Spencer",
+      "impact": 43,
+      "ppg": 4.2
+    },
+    {
+      "name": "Olivier-Maxence Prosper",
+      "impact": 42,
+      "ppg": 3.9
+    }
+  ],
+  "Utah Jazz": [
+    {
+      "name": "Walker Kessler",
+      "impact": 64,
+      "ppg": 11.1
+    },
+    {
+      "name": "Lauri Markkanen",
+      "impact": 60,
+      "ppg": 19.0
+    },
+    {
+      "name": "Keyonte George",
+      "impact": 58,
+      "ppg": 16.8
+    },
+    {
+      "name": "Jusuf Nurki\u0107",
+      "impact": 55,
+      "ppg": 8.9
+    },
+    {
+      "name": "Isaiah Collier",
+      "impact": 54,
+      "ppg": 8.7
+    },
+    {
+      "name": "Georges Niang",
+      "impact": 53,
+      "ppg": 9.9
+    },
+    {
+      "name": "Kyle Filipowski",
+      "impact": 53,
+      "ppg": 9.6
+    },
+    {
+      "name": "Brice Sensabaugh",
+      "impact": 51,
+      "ppg": 10.9
+    },
+    {
+      "name": "Kyle Anderson",
+      "impact": 50,
+      "ppg": 5.9
+    },
+    {
+      "name": "Svi Mykhailiuk",
+      "impact": 48,
+      "ppg": 8.8
+    },
+    {
+      "name": "Oscar Tshiebwe",
+      "impact": 47,
+      "ppg": 7.6
+    },
+    {
+      "name": "Kevin Love",
+      "impact": 44,
+      "ppg": 5.3
+    },
+    {
+      "name": "Cody Williams",
+      "impact": 43,
+      "ppg": 4.6
+    },
+    {
+      "name": "Elijah Harkless",
+      "impact": 37,
+      "ppg": 3.2
+    },
+    {
+      "name": "Taylor Hendricks",
+      "impact": 33,
+      "ppg": 4.7
+    }
+  ],
+  "New Orleans Pelicans": [
+    {
+      "name": "Zion Williamson",
+      "impact": 72,
+      "ppg": 24.6
+    },
+    {
+      "name": "Dejounte Murray",
+      "impact": 64,
+      "ppg": 17.5
+    },
+    {
+      "name": "Trey Murphy III",
+      "impact": 64,
+      "ppg": 21.2
+    },
+    {
+      "name": "Jordan Poole",
+      "impact": 60,
+      "ppg": 20.5
+    },
+    {
+      "name": "Herbert Jones",
+      "impact": 58,
+      "ppg": 10.3
+    },
+    {
+      "name": "Yves Missi",
+      "impact": 57,
+      "ppg": 9.1
+    },
+    {
+      "name": "Jose Alvarado",
+      "impact": 53,
+      "ppg": 10.3
+    },
+    {
+      "name": "Karlo Matkovi\u0107",
+      "impact": 53,
+      "ppg": 7.7
+    },
+    {
+      "name": "Kevon Looney",
+      "impact": 51,
+      "ppg": 4.5
+    },
+    {
+      "name": "DeAndre Jordan",
+      "impact": 49,
+      "ppg": 3.7
+    },
+    {
+      "name": "Jordan Hawkins",
+      "impact": 48,
+      "ppg": 10.8
+    },
+    {
+      "name": "Trey Alexander",
+      "impact": 36,
+      "ppg": 1.3
+    },
+    {
+      "name": "Bryce McGowens",
+      "impact": 33,
+      "ppg": 1.0
+    }
+  ],
+  "Atlanta Hawks": [
+    {
+      "name": "Jalen Johnson",
+      "impact": 72,
+      "ppg": 18.9
+    },
+    {
+      "name": "Dyson Daniels",
+      "impact": 66,
+      "ppg": 14.1
+    },
+    {
+      "name": "Kristaps Porzi\u0146\u0123is",
+      "impact": 66,
+      "ppg": 19.5
+    },
+    {
+      "name": "Onyeka Okongwu",
+      "impact": 64,
+      "ppg": 13.4
+    },
+    {
+      "name": "CJ McCollum",
+      "impact": 63,
+      "ppg": 21.1
+    },
+    {
+      "name": "Nickeil Alexander-Walker",
+      "impact": 55,
+      "ppg": 9.4
+    },
+    {
+      "name": "Luke Kennard",
+      "impact": 54,
+      "ppg": 8.9
+    },
+    {
+      "name": "Zaccharie Risacher",
+      "impact": 54,
+      "ppg": 12.6
+    },
+    {
+      "name": "Corey Kispert",
+      "impact": 52,
+      "ppg": 11.6
+    },
+    {
+      "name": "V\u00edt Krej\u010d\u00ed",
+      "impact": 52,
+      "ppg": 7.2
+    },
+    {
+      "name": "Mouhamed Gueye",
+      "impact": 49,
+      "ppg": 6.0
+    },
+    {
+      "name": "Keaton Wallace",
+      "impact": 47,
+      "ppg": 5.4
+    },
+    {
+      "name": "Christian Koloko",
+      "impact": 45,
+      "ppg": 2.4
+    },
+    {
+      "name": "Caleb Houstan",
+      "impact": 43,
+      "ppg": 4.1
+    },
+    {
+      "name": "RayJ Dennis",
+      "impact": 36,
+      "ppg": 2.7
+    },
+    {
+      "name": "N'Faly Dante",
+      "impact": 34,
+      "ppg": 6.0
+    }
+  ],
+  "Brooklyn Nets": [
+    {
+      "name": "Michael Porter Jr.",
+      "impact": 65,
+      "ppg": 18.2
+    },
+    {
+      "name": "Cam Thomas",
+      "impact": 63,
+      "ppg": 24.0
+    },
+    {
+      "name": "Nic Claxton",
+      "impact": 59,
+      "ppg": 10.3
+    },
+    {
+      "name": "Day'Ron Sharpe",
+      "impact": 55,
+      "ppg": 7.9
+    },
+    {
+      "name": "Haywood Highsmith",
+      "impact": 52,
+      "ppg": 6.5
+    },
+    {
+      "name": "Terance Mann",
+      "impact": 51,
+      "ppg": 7.7
+    },
+    {
+      "name": "Ziaire Williams",
+      "impact": 51,
+      "ppg": 10.0
+    },
+    {
+      "name": "Jalen Wilson",
+      "impact": 50,
+      "ppg": 9.5
+    },
+    {
+      "name": "Tyrese Martin",
+      "impact": 49,
+      "ppg": 8.7
+    },
+    {
+      "name": "Noah Clowney",
+      "impact": 47,
+      "ppg": 9.1
+    },
+    {
+      "name": "E.J. Liddell",
+      "impact": 37,
+      "ppg": 1.8
+    },
+    {
+      "name": "Tyson Etienne",
+      "impact": 35,
+      "ppg": 7.9
+    }
+  ],
+  "Phoenix Suns": [
+    {
+      "name": "Devin Booker",
+      "impact": 70,
+      "ppg": 25.6
+    },
+    {
+      "name": "Jalen Green",
+      "impact": 64,
+      "ppg": 21.0
+    },
+    {
+      "name": "Mark Williams",
+      "impact": 63,
+      "ppg": 15.3
+    },
+    {
+      "name": "Dillon Brooks",
+      "impact": 58,
+      "ppg": 14.0
+    },
+    {
+      "name": "Nick Richards",
+      "impact": 56,
+      "ppg": 9.3
+    },
+    {
+      "name": "Grayson Allen",
+      "impact": 53,
+      "ppg": 10.6
+    },
+    {
+      "name": "Royce O'Neale",
+      "impact": 53,
+      "ppg": 9.1
+    },
+    {
+      "name": "Oso Ighodaro",
+      "impact": 50,
+      "ppg": 4.2
+    },
+    {
+      "name": "Jordan Goodwin",
+      "impact": 49,
+      "ppg": 5.6
+    },
+    {
+      "name": "Ryan Dunn",
+      "impact": 48,
+      "ppg": 6.9
+    },
+    {
+      "name": "Collin Gillespie",
+      "impact": 47,
+      "ppg": 5.9
+    },
+    {
+      "name": "Jamaree Bouyea",
+      "impact": 34,
+      "ppg": 3.4
+    }
+  ],
+  "Cleveland Cavaliers": [
+    {
+      "name": "Evan Mobley",
+      "impact": 72,
+      "ppg": 18.5
+    },
+    {
+      "name": "Donovan Mitchell",
+      "impact": 70,
+      "ppg": 24.0
+    },
+    {
+      "name": "Darius Garland",
+      "impact": 68,
+      "ppg": 20.6
+    },
+    {
+      "name": "Jarrett Allen",
+      "impact": 66,
+      "ppg": 13.5
+    },
+    {
+      "name": "De'Andre Hunter",
+      "impact": 59,
+      "ppg": 17.0
+    },
+    {
+      "name": "Max Strus",
+      "impact": 56,
+      "ppg": 9.4
+    },
+    {
+      "name": "Larry Nance Jr.",
+      "impact": 52,
+      "ppg": 8.5
+    },
+    {
+      "name": "Lonzo Ball",
+      "impact": 52,
+      "ppg": 7.6
+    },
+    {
+      "name": "Dean Wade",
+      "impact": 50,
+      "ppg": 5.4
+    },
+    {
+      "name": "Sam Merrill",
+      "impact": 50,
+      "ppg": 7.2
+    },
+    {
+      "name": "Thomas Bryant",
+      "impact": 49,
+      "ppg": 6.5
+    },
+    {
+      "name": "Craig Porter Jr.",
+      "impact": 45,
+      "ppg": 3.7
+    },
+    {
+      "name": "Jaylon Tyson",
+      "impact": 43,
+      "ppg": 3.6
+    },
+    {
+      "name": "Luke Travers",
+      "impact": 35,
+      "ppg": 1.0
+    },
+    {
+      "name": "Nae'Qwan Tomlin",
+      "impact": 34,
+      "ppg": 7.2
+    }
+  ],
+  "Sacramento Kings": [
+    {
+      "name": "Domantas Sabonis",
+      "impact": 74,
+      "ppg": 19.1
+    },
+    {
+      "name": "Zach LaVine",
+      "impact": 68,
+      "ppg": 23.3
+    },
+    {
+      "name": "DeMar DeRozan",
+      "impact": 67,
+      "ppg": 22.2
+    },
+    {
+      "name": "Malik Monk",
+      "impact": 64,
+      "ppg": 17.2
+    },
+    {
+      "name": "Russell Westbrook",
+      "impact": 62,
+      "ppg": 13.3
+    },
+    {
+      "name": "Keegan Murray",
+      "impact": 60,
+      "ppg": 12.4
+    },
+    {
+      "name": "Dennis Schr\u00f6der",
+      "impact": 57,
+      "ppg": 13.1
+    },
+    {
+      "name": "Keon Ellis",
+      "impact": 55,
+      "ppg": 8.3
+    },
+    {
+      "name": "Precious Achiuwa",
+      "impact": 53,
+      "ppg": 6.6
+    },
+    {
+      "name": "Drew Eubanks",
+      "impact": 48,
+      "ppg": 4.6
+    },
+    {
+      "name": "Devin Carter",
+      "impact": 43,
+      "ppg": 3.8
+    },
+    {
+      "name": "Doug McDermott",
+      "impact": 40,
+      "ppg": 3.5
+    },
+    {
+      "name": "Dario \u0160ari\u0107",
+      "impact": 39,
+      "ppg": 3.5
+    },
+    {
+      "name": "Daeqwon Plowden",
+      "impact": 36,
+      "ppg": 7.2
+    },
+    {
+      "name": "Isaiah Stevens",
+      "impact": 31,
+      "ppg": 0
+    }
+  ]
+}

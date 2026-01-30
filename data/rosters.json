@@ -1,0 +1,5752 @@
+{
+  "last_updated": "2026-01-30T16:49:56.039850",
+  "total_players": 442,
+  "players": {
+    "A.J. Lawson": {
+      "team": "Toronto Raptors",
+      "impact": 49,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.1,
+        "apg": 1.2,
+        "rpg": 3.3,
+        "mpg": 18.7,
+        "fg_pct": 42.1,
+        "games": 26
+      }
+    },
+    "AJ Green": {
+      "team": "Milwaukee Bucks",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.4,
+        "apg": 1.5,
+        "rpg": 2.4,
+        "mpg": 22.7,
+        "fg_pct": 42.9,
+        "games": 73
+      }
+    },
+    "AJ Johnson": {
+      "team": "Washington Wizards",
+      "impact": 47,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.6,
+        "apg": 2.6,
+        "rpg": 2.0,
+        "mpg": 22.0,
+        "fg_pct": 38.5,
+        "games": 29
+      }
+    },
+    "Aaron Gordon": {
+      "team": "Denver Nuggets",
+      "impact": 63,
+      "position": "G/F",
+      "stats": {
+        "ppg": 14.7,
+        "apg": 3.2,
+        "rpg": 4.8,
+        "mpg": 28.4,
+        "fg_pct": 53.1,
+        "games": 51
+      }
+    },
+    "Aaron Holiday": {
+      "team": "Houston Rockets",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.5,
+        "apg": 1.3,
+        "rpg": 1.3,
+        "mpg": 12.8,
+        "fg_pct": 43.7,
+        "games": 62
+      }
+    },
+    "Aaron Nesmith": {
+      "team": "Indiana Pacers",
+      "impact": 58,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.0,
+        "apg": 1.2,
+        "rpg": 4.0,
+        "mpg": 24.9,
+        "fg_pct": 50.7,
+        "games": 45
+      }
+    },
+    "Aaron Wiggins": {
+      "team": "Oklahoma City Thunder",
+      "impact": 58,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.0,
+        "apg": 1.8,
+        "rpg": 3.9,
+        "mpg": 22.9,
+        "fg_pct": 48.8,
+        "games": 76
+      }
+    },
+    "Adem Bona": {
+      "team": "Philadelphia 76ers",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.8,
+        "apg": 0.5,
+        "rpg": 4.2,
+        "mpg": 15.6,
+        "fg_pct": 70.3,
+        "games": 58
+      }
+    },
+    "Ajay Mitchell": {
+      "team": "Oklahoma City Thunder",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.5,
+        "apg": 1.8,
+        "rpg": 1.9,
+        "mpg": 16.6,
+        "fg_pct": 49.5,
+        "games": 36
+      }
+    },
+    "Al Horford": {
+      "team": "Golden State Warriors",
+      "impact": 57,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.0,
+        "apg": 2.1,
+        "rpg": 6.2,
+        "mpg": 27.6,
+        "fg_pct": 42.3,
+        "games": 60
+      }
+    },
+    "Alex Caruso": {
+      "team": "Oklahoma City Thunder",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.1,
+        "apg": 2.5,
+        "rpg": 2.9,
+        "mpg": 19.3,
+        "fg_pct": 44.6,
+        "games": 54
+      }
+    },
+    "Alex Sarr": {
+      "team": "Washington Wizards",
+      "impact": 55,
+      "position": "G/F",
+      "stats": {
+        "ppg": 13.0,
+        "apg": 2.4,
+        "rpg": 6.5,
+        "mpg": 27.1,
+        "fg_pct": 39.4,
+        "games": 67
+      }
+    },
+    "Alperen Sengun": {
+      "team": "Houston Rockets",
+      "impact": 71,
+      "position": "C/F",
+      "stats": {
+        "ppg": 19.1,
+        "apg": 4.9,
+        "rpg": 10.3,
+        "mpg": 31.5,
+        "fg_pct": 49.6,
+        "games": 76
+      }
+    },
+    "Amen Thompson": {
+      "team": "Houston Rockets",
+      "impact": 68,
+      "position": "C/F",
+      "stats": {
+        "ppg": 14.1,
+        "apg": 3.8,
+        "rpg": 8.2,
+        "mpg": 32.3,
+        "fg_pct": 55.7,
+        "games": 69
+      }
+    },
+    "Amir Coffey": {
+      "team": "Milwaukee Bucks",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.7,
+        "apg": 1.1,
+        "rpg": 2.2,
+        "mpg": 24.3,
+        "fg_pct": 47.1,
+        "games": 72
+      }
+    },
+    "Andre Drummond": {
+      "team": "Philadelphia 76ers",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.3,
+        "apg": 0.9,
+        "rpg": 7.8,
+        "mpg": 18.8,
+        "fg_pct": 50.0,
+        "games": 40
+      }
+    },
+    "Andre Jackson Jr.": {
+      "team": "Milwaukee Bucks",
+      "impact": 46,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.4,
+        "apg": 1.2,
+        "rpg": 2.7,
+        "mpg": 14.6,
+        "fg_pct": 47.7,
+        "games": 67
+      }
+    },
+    "Andrew Nembhard": {
+      "team": "Indiana Pacers",
+      "impact": 59,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.0,
+        "apg": 5.0,
+        "rpg": 3.3,
+        "mpg": 28.9,
+        "fg_pct": 45.8,
+        "games": 65
+      }
+    },
+    "Andrew Wiggins": {
+      "team": "Miami Heat",
+      "impact": 61,
+      "position": "G/F",
+      "stats": {
+        "ppg": 18.0,
+        "apg": 2.6,
+        "rpg": 4.5,
+        "mpg": 30.7,
+        "fg_pct": 44.8,
+        "games": 60
+      }
+    },
+    "Anfernee Simons": {
+      "team": "Boston Celtics",
+      "impact": 61,
+      "position": "G/F",
+      "stats": {
+        "ppg": 19.3,
+        "apg": 4.8,
+        "rpg": 2.7,
+        "mpg": 32.7,
+        "fg_pct": 42.6,
+        "games": 70
+      }
+    },
+    "Anthony Black": {
+      "team": "Orlando Magic",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.4,
+        "apg": 3.1,
+        "rpg": 2.9,
+        "mpg": 24.2,
+        "fg_pct": 42.3,
+        "games": 78
+      }
+    },
+    "Anthony Davis": {
+      "team": "Dallas Mavericks",
+      "impact": 75,
+      "position": "C/F",
+      "stats": {
+        "ppg": 24.7,
+        "apg": 3.5,
+        "rpg": 11.6,
+        "mpg": 33.4,
+        "fg_pct": 51.6,
+        "games": 51
+      }
+    },
+    "Anthony Edwards": {
+      "team": "Minnesota Timberwolves",
+      "impact": 73,
+      "position": "F",
+      "stats": {
+        "ppg": 27.6,
+        "apg": 4.5,
+        "rpg": 5.7,
+        "mpg": 36.3,
+        "fg_pct": 44.7,
+        "games": 79
+      }
+    },
+    "Anthony Gill": {
+      "team": "Washington Wizards",
+      "impact": 41,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.5,
+        "apg": 0.3,
+        "rpg": 1.3,
+        "mpg": 7.8,
+        "fg_pct": 48.9,
+        "games": 51
+      }
+    },
+    "Antonio Reeves": {
+      "team": "Charlotte Hornets",
+      "impact": 46,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.9,
+        "apg": 0.9,
+        "rpg": 1.4,
+        "mpg": 15.0,
+        "fg_pct": 45.6,
+        "games": 44
+      }
+    },
+    "Ariel Hukporti": {
+      "team": "New York Knicks",
+      "impact": 44,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.9,
+        "apg": 0.4,
+        "rpg": 2.0,
+        "mpg": 8.7,
+        "fg_pct": 67.7,
+        "games": 25
+      }
+    },
+    "Ausar Thompson": {
+      "team": "Detroit Pistons",
+      "impact": 59,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.1,
+        "apg": 2.3,
+        "rpg": 5.1,
+        "mpg": 22.5,
+        "fg_pct": 53.5,
+        "games": 59
+      }
+    },
+    "Austin Reaves": {
+      "team": "Los Angeles Lakers",
+      "impact": 68,
+      "position": "G/F",
+      "stats": {
+        "ppg": 20.2,
+        "apg": 5.8,
+        "rpg": 4.5,
+        "mpg": 34.9,
+        "fg_pct": 46.0,
+        "games": 73
+      }
+    },
+    "Ayo Dosunmu": {
+      "team": "Chicago Bulls",
+      "impact": 58,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.3,
+        "apg": 4.5,
+        "rpg": 3.5,
+        "mpg": 30.3,
+        "fg_pct": 49.2,
+        "games": 46
+      }
+    },
+    "Bam Adebayo": {
+      "team": "Miami Heat",
+      "impact": 69,
+      "position": "C/F",
+      "stats": {
+        "ppg": 18.1,
+        "apg": 4.3,
+        "rpg": 9.6,
+        "mpg": 34.3,
+        "fg_pct": 48.5,
+        "games": 78
+      }
+    },
+    "Baylor Scheierman": {
+      "team": "Boston Celtics",
+      "impact": 42,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.6,
+        "apg": 1.1,
+        "rpg": 2.1,
+        "mpg": 12.4,
+        "fg_pct": 35.5,
+        "games": 31
+      }
+    },
+    "Ben Sheppard": {
+      "team": "Indiana Pacers",
+      "impact": 47,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.3,
+        "apg": 1.3,
+        "rpg": 2.8,
+        "mpg": 19.5,
+        "fg_pct": 41.8,
+        "games": 63
+      }
+    },
+    "Bennedict Mathurin": {
+      "team": "Indiana Pacers",
+      "impact": 60,
+      "position": "F",
+      "stats": {
+        "ppg": 16.1,
+        "apg": 1.9,
+        "rpg": 5.3,
+        "mpg": 29.9,
+        "fg_pct": 45.8,
+        "games": 72
+      }
+    },
+    "Bilal Coulibaly": {
+      "team": "Washington Wizards",
+      "impact": 56,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.3,
+        "apg": 3.4,
+        "rpg": 5.0,
+        "mpg": 33.0,
+        "fg_pct": 42.1,
+        "games": 59
+      }
+    },
+    "Bismack Biyombo": {
+      "team": "San Antonio Spurs",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.1,
+        "apg": 1.1,
+        "rpg": 5.6,
+        "mpg": 18.8,
+        "fg_pct": 58.8,
+        "games": 28
+      }
+    },
+    "Blake Wesley": {
+      "team": "Portland Trail Blazers",
+      "impact": 44,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.7,
+        "apg": 2.0,
+        "rpg": 1.1,
+        "mpg": 11.8,
+        "fg_pct": 43.5,
+        "games": 58
+      }
+    },
+    "Bobby Portis": {
+      "team": "Milwaukee Bucks",
+      "impact": 60,
+      "position": "C/F",
+      "stats": {
+        "ppg": 13.9,
+        "apg": 2.1,
+        "rpg": 8.4,
+        "mpg": 25.4,
+        "fg_pct": 46.6,
+        "games": 49
+      }
+    },
+    "Bobi Klintman": {
+      "team": "Detroit Pistons",
+      "impact": 35,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.9,
+        "apg": 0.9,
+        "rpg": 0.9,
+        "mpg": 5.3,
+        "fg_pct": 60.0,
+        "games": 8
+      }
+    },
+    "Bogdan Bogdanovi\u0107": {
+      "team": "Los Angeles Clippers",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.8,
+        "apg": 2.7,
+        "rpg": 2.9,
+        "mpg": 25.0,
+        "fg_pct": 42.7,
+        "games": 54
+      }
+    },
+    "Bones Hyland": {
+      "team": "Minnesota Timberwolves",
+      "impact": 44,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.2,
+        "apg": 1.3,
+        "rpg": 1.0,
+        "mpg": 9.9,
+        "fg_pct": 39.8,
+        "games": 24
+      }
+    },
+    "Bradley Beal": {
+      "team": "Los Angeles Clippers",
+      "impact": 61,
+      "position": "G/F",
+      "stats": {
+        "ppg": 17.0,
+        "apg": 3.7,
+        "rpg": 3.3,
+        "mpg": 32.1,
+        "fg_pct": 49.7,
+        "games": 53
+      }
+    },
+    "Branden Carlson": {
+      "team": "Oklahoma City Thunder",
+      "impact": 43,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.8,
+        "apg": 0.4,
+        "rpg": 1.7,
+        "mpg": 7.7,
+        "fg_pct": 44.3,
+        "games": 32
+      }
+    },
+    "Brandin Podziemski": {
+      "team": "Golden State Warriors",
+      "impact": 59,
+      "position": "G/F",
+      "stats": {
+        "ppg": 11.7,
+        "apg": 3.4,
+        "rpg": 5.1,
+        "mpg": 26.8,
+        "fg_pct": 44.5,
+        "games": 64
+      }
+    },
+    "Brandon Clarke": {
+      "team": "Memphis Grizzlies",
+      "impact": 55,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.3,
+        "apg": 1.0,
+        "rpg": 5.1,
+        "mpg": 18.9,
+        "fg_pct": 62.1,
+        "games": 64
+      }
+    },
+    "Brandon Ingram": {
+      "team": "Toronto Raptors",
+      "impact": 62,
+      "position": "F",
+      "stats": {
+        "ppg": 22.2,
+        "apg": 5.2,
+        "rpg": 5.6,
+        "mpg": 33.1,
+        "fg_pct": 46.5,
+        "games": 18
+      }
+    },
+    "Brandon Miller": {
+      "team": "Charlotte Hornets",
+      "impact": 63,
+      "position": "G/F",
+      "stats": {
+        "ppg": 21.0,
+        "apg": 3.6,
+        "rpg": 4.9,
+        "mpg": 34.2,
+        "fg_pct": 40.3,
+        "games": 27
+      }
+    },
+    "Brandon Williams": {
+      "team": "Dallas Mavericks",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.3,
+        "apg": 2.3,
+        "rpg": 1.8,
+        "mpg": 14.8,
+        "fg_pct": 52.1,
+        "games": 33
+      }
+    },
+    "Brice Sensabaugh": {
+      "team": "Utah Jazz",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.9,
+        "apg": 1.5,
+        "rpg": 3.0,
+        "mpg": 20.2,
+        "fg_pct": 45.9,
+        "games": 71
+      }
+    },
+    "Bronny James": {
+      "team": "Los Angeles Lakers",
+      "impact": 37,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.3,
+        "apg": 0.8,
+        "rpg": 0.7,
+        "mpg": 6.7,
+        "fg_pct": 31.3,
+        "games": 27
+      }
+    },
+    "Brook Lopez": {
+      "team": "Los Angeles Clippers",
+      "impact": 62,
+      "position": "G/F",
+      "stats": {
+        "ppg": 13.0,
+        "apg": 1.8,
+        "rpg": 5.0,
+        "mpg": 31.8,
+        "fg_pct": 50.9,
+        "games": 80
+      }
+    },
+    "Bruce Brown": {
+      "team": "Denver Nuggets",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.3,
+        "apg": 2.0,
+        "rpg": 4.0,
+        "mpg": 22.5,
+        "fg_pct": 42.1,
+        "games": 41
+      }
+    },
+    "Bryce McGowens": {
+      "team": "New Orleans Pelicans",
+      "impact": 33,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.0,
+        "apg": 0.2,
+        "rpg": 0.2,
+        "mpg": 2.5,
+        "fg_pct": 28.6,
+        "games": 13
+      }
+    },
+    "Bub Carrington": {
+      "team": "Washington Wizards",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.8,
+        "apg": 4.4,
+        "rpg": 4.2,
+        "mpg": 30.0,
+        "fg_pct": 40.1,
+        "games": 82
+      }
+    },
+    "Buddy Hield": {
+      "team": "Golden State Warriors",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 11.1,
+        "apg": 1.6,
+        "rpg": 3.2,
+        "mpg": 22.7,
+        "fg_pct": 41.7,
+        "games": 82
+      }
+    },
+    "CJ McCollum": {
+      "team": "Atlanta Hawks",
+      "impact": 63,
+      "position": "G/F",
+      "stats": {
+        "ppg": 21.1,
+        "apg": 4.1,
+        "rpg": 3.8,
+        "mpg": 32.7,
+        "fg_pct": 44.4,
+        "games": 56
+      }
+    },
+    "Cade Cunningham": {
+      "team": "Detroit Pistons",
+      "impact": 76,
+      "position": "G",
+      "stats": {
+        "ppg": 26.1,
+        "apg": 9.1,
+        "rpg": 6.1,
+        "mpg": 35.0,
+        "fg_pct": 46.9,
+        "games": 70
+      }
+    },
+    "Caleb Houstan": {
+      "team": "Atlanta Hawks",
+      "impact": 43,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.1,
+        "apg": 0.6,
+        "rpg": 1.3,
+        "mpg": 13.6,
+        "fg_pct": 42.1,
+        "games": 58
+      }
+    },
+    "Caleb Martin": {
+      "team": "Dallas Mavericks",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.9,
+        "apg": 2.1,
+        "rpg": 3.9,
+        "mpg": 27.1,
+        "fg_pct": 42.4,
+        "games": 45
+      }
+    },
+    "Cam Christie": {
+      "team": "Los Angeles Clippers",
+      "impact": 34,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.4,
+        "apg": 0.5,
+        "rpg": 0.9,
+        "mpg": 4.5,
+        "fg_pct": 29.2,
+        "games": 13
+      }
+    },
+    "Cam Spencer": {
+      "team": "Memphis Grizzlies",
+      "impact": 43,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.2,
+        "apg": 1.4,
+        "rpg": 1.2,
+        "mpg": 10.1,
+        "fg_pct": 41.5,
+        "games": 25
+      }
+    },
+    "Cam Thomas": {
+      "team": "Brooklyn Nets",
+      "impact": 63,
+      "position": "G/F",
+      "stats": {
+        "ppg": 24.0,
+        "apg": 3.8,
+        "rpg": 3.3,
+        "mpg": 31.2,
+        "fg_pct": 43.8,
+        "games": 25
+      }
+    },
+    "Cam Whitmore": {
+      "team": "Washington Wizards",
+      "impact": 49,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.4,
+        "apg": 1.0,
+        "rpg": 3.0,
+        "mpg": 16.2,
+        "fg_pct": 44.4,
+        "games": 51
+      }
+    },
+    "Cameron Johnson": {
+      "team": "Denver Nuggets",
+      "impact": 62,
+      "position": "G/F",
+      "stats": {
+        "ppg": 18.8,
+        "apg": 3.4,
+        "rpg": 4.3,
+        "mpg": 31.6,
+        "fg_pct": 47.5,
+        "games": 57
+      }
+    },
+    "Caris LeVert": {
+      "team": "Detroit Pistons",
+      "impact": 58,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.1,
+        "apg": 3.4,
+        "rpg": 3.2,
+        "mpg": 24.9,
+        "fg_pct": 46.7,
+        "games": 64
+      }
+    },
+    "Cason Wallace": {
+      "team": "Oklahoma City Thunder",
+      "impact": 58,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.4,
+        "apg": 2.5,
+        "rpg": 3.4,
+        "mpg": 27.6,
+        "fg_pct": 47.4,
+        "games": 68
+      }
+    },
+    "Charles Bassey": {
+      "team": "Philadelphia 76ers",
+      "impact": 47,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.4,
+        "apg": 0.5,
+        "rpg": 4.2,
+        "mpg": 10.4,
+        "fg_pct": 58.1,
+        "games": 36
+      }
+    },
+    "Chet Holmgren": {
+      "team": "Oklahoma City Thunder",
+      "impact": 66,
+      "position": "G/F",
+      "stats": {
+        "ppg": 15.0,
+        "apg": 2.0,
+        "rpg": 8.0,
+        "mpg": 27.4,
+        "fg_pct": 49.0,
+        "games": 32
+      }
+    },
+    "Chris Boucher": {
+      "team": "Boston Celtics",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.0,
+        "apg": 0.7,
+        "rpg": 4.5,
+        "mpg": 17.2,
+        "fg_pct": 49.2,
+        "games": 50
+      }
+    },
+    "Chris Paul": {
+      "team": "Los Angeles Clippers",
+      "impact": 59,
+      "position": "G",
+      "stats": {
+        "ppg": 8.8,
+        "apg": 7.4,
+        "rpg": 3.6,
+        "mpg": 28.0,
+        "fg_pct": 42.7,
+        "games": 82
+      }
+    },
+    "Christian Braun": {
+      "team": "Denver Nuggets",
+      "impact": 66,
+      "position": "F",
+      "stats": {
+        "ppg": 15.4,
+        "apg": 2.6,
+        "rpg": 5.2,
+        "mpg": 33.9,
+        "fg_pct": 58.0,
+        "games": 79
+      }
+    },
+    "Christian Koloko": {
+      "team": "Atlanta Hawks",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.4,
+        "apg": 0.4,
+        "rpg": 2.5,
+        "mpg": 9.2,
+        "fg_pct": 60.6,
+        "games": 37
+      }
+    },
+    "Clint Capela": {
+      "team": "Houston Rockets",
+      "impact": 57,
+      "position": "C/F",
+      "stats": {
+        "ppg": 8.9,
+        "apg": 1.1,
+        "rpg": 8.5,
+        "mpg": 21.4,
+        "fg_pct": 55.9,
+        "games": 55
+      }
+    },
+    "Coby White": {
+      "team": "Chicago Bulls",
+      "impact": 64,
+      "position": "G/F",
+      "stats": {
+        "ppg": 20.4,
+        "apg": 4.5,
+        "rpg": 3.7,
+        "mpg": 33.1,
+        "fg_pct": 45.3,
+        "games": 74
+      }
+    },
+    "Cody Williams": {
+      "team": "Utah Jazz",
+      "impact": 43,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.6,
+        "apg": 1.2,
+        "rpg": 2.3,
+        "mpg": 21.2,
+        "fg_pct": 32.3,
+        "games": 50
+      }
+    },
+    "Cole Anthony": {
+      "team": "Milwaukee Bucks",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.4,
+        "apg": 2.9,
+        "rpg": 3.0,
+        "mpg": 18.4,
+        "fg_pct": 42.4,
+        "games": 67
+      }
+    },
+    "Colin Castleton": {
+      "team": "Orlando Magic",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.7,
+        "apg": 1.1,
+        "rpg": 4.7,
+        "mpg": 16.6,
+        "fg_pct": 46.9,
+        "games": 26
+      }
+    },
+    "Collin Gillespie": {
+      "team": "Phoenix Suns",
+      "impact": 47,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.9,
+        "apg": 2.4,
+        "rpg": 2.4,
+        "mpg": 14.0,
+        "fg_pct": 43.0,
+        "games": 33
+      }
+    },
+    "Collin Sexton": {
+      "team": "Charlotte Hornets",
+      "impact": 60,
+      "position": "G/F",
+      "stats": {
+        "ppg": 18.4,
+        "apg": 4.2,
+        "rpg": 2.7,
+        "mpg": 27.9,
+        "fg_pct": 48.0,
+        "games": 63
+      }
+    },
+    "Corey Kispert": {
+      "team": "Atlanta Hawks",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 11.6,
+        "apg": 1.7,
+        "rpg": 3.0,
+        "mpg": 26.3,
+        "fg_pct": 45.1,
+        "games": 61
+      }
+    },
+    "Craig Porter Jr.": {
+      "team": "Cleveland Cavaliers",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.7,
+        "apg": 1.4,
+        "rpg": 1.3,
+        "mpg": 10.1,
+        "fg_pct": 51.4,
+        "games": 51
+      }
+    },
+    "D'Angelo Russell": {
+      "team": "Dallas Mavericks",
+      "impact": 56,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.6,
+        "apg": 5.1,
+        "rpg": 2.8,
+        "mpg": 25.5,
+        "fg_pct": 39.0,
+        "games": 58
+      }
+    },
+    "Daeqwon Plowden": {
+      "team": "Sacramento Kings",
+      "impact": 36,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.2,
+        "apg": 0.3,
+        "rpg": 1.8,
+        "mpg": 11.9,
+        "fg_pct": 64.0,
+        "games": 6
+      }
+    },
+    "Dalen Terry": {
+      "team": "Chicago Bulls",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.5,
+        "apg": 1.3,
+        "rpg": 1.7,
+        "mpg": 13.5,
+        "fg_pct": 44.8,
+        "games": 73
+      }
+    },
+    "Dalton Knecht": {
+      "team": "Los Angeles Lakers",
+      "impact": 49,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.1,
+        "apg": 0.8,
+        "rpg": 2.8,
+        "mpg": 19.2,
+        "fg_pct": 46.1,
+        "games": 78
+      }
+    },
+    "Damian Lillard": {
+      "team": "Portland Trail Blazers",
+      "impact": 71,
+      "position": "G",
+      "stats": {
+        "ppg": 24.9,
+        "apg": 7.1,
+        "rpg": 4.7,
+        "mpg": 36.1,
+        "fg_pct": 44.8,
+        "games": 58
+      }
+    },
+    "Daniel Gafford": {
+      "team": "Dallas Mavericks",
+      "impact": 60,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.3,
+        "apg": 1.4,
+        "rpg": 6.8,
+        "mpg": 21.5,
+        "fg_pct": 70.2,
+        "games": 57
+      }
+    },
+    "Daniss Jenkins": {
+      "team": "Detroit Pistons",
+      "impact": 32,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.0,
+        "apg": 0.4,
+        "rpg": 0.3,
+        "mpg": 3.2,
+        "fg_pct": 30.0,
+        "games": 7
+      }
+    },
+    "Dant\u00e9 Exum": {
+      "team": "Dallas Mavericks",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.7,
+        "apg": 2.8,
+        "rpg": 1.7,
+        "mpg": 18.6,
+        "fg_pct": 47.8,
+        "games": 20
+      }
+    },
+    "Dario \u0160ari\u0107": {
+      "team": "Sacramento Kings",
+      "impact": 39,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.5,
+        "apg": 1.4,
+        "rpg": 3.1,
+        "mpg": 13.1,
+        "fg_pct": 36.2,
+        "games": 16
+      }
+    },
+    "Darius Garland": {
+      "team": "Cleveland Cavaliers",
+      "impact": 68,
+      "position": "G",
+      "stats": {
+        "ppg": 20.6,
+        "apg": 6.7,
+        "rpg": 2.9,
+        "mpg": 30.7,
+        "fg_pct": 47.2,
+        "games": 75
+      }
+    },
+    "Davion Mitchell": {
+      "team": "Miami Heat",
+      "impact": 56,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.9,
+        "apg": 4.9,
+        "rpg": 2.3,
+        "mpg": 27.4,
+        "fg_pct": 46.8,
+        "games": 74
+      }
+    },
+    "Day'Ron Sharpe": {
+      "team": "Brooklyn Nets",
+      "impact": 55,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.9,
+        "apg": 1.8,
+        "rpg": 6.6,
+        "mpg": 18.1,
+        "fg_pct": 52.1,
+        "games": 50
+      }
+    },
+    "De'Aaron Fox": {
+      "team": "San Antonio Spurs",
+      "impact": 70,
+      "position": "G",
+      "stats": {
+        "ppg": 23.5,
+        "apg": 6.3,
+        "rpg": 4.8,
+        "mpg": 36.1,
+        "fg_pct": 46.3,
+        "games": 62
+      }
+    },
+    "De'Andre Hunter": {
+      "team": "Cleveland Cavaliers",
+      "impact": 59,
+      "position": "G/F",
+      "stats": {
+        "ppg": 17.0,
+        "apg": 1.4,
+        "rpg": 4.0,
+        "mpg": 27.2,
+        "fg_pct": 47.0,
+        "games": 64
+      }
+    },
+    "De'Anthony Melton": {
+      "team": "Golden State Warriors",
+      "impact": 37,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.3,
+        "apg": 2.8,
+        "rpg": 3.3,
+        "mpg": 20.2,
+        "fg_pct": 40.7,
+        "games": 6
+      }
+    },
+    "DeAndre Jordan": {
+      "team": "New Orleans Pelicans",
+      "impact": 49,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.7,
+        "apg": 0.9,
+        "rpg": 5.1,
+        "mpg": 12.3,
+        "fg_pct": 65.0,
+        "games": 56
+      }
+    },
+    "DeMar DeRozan": {
+      "team": "Sacramento Kings",
+      "impact": 67,
+      "position": "G/F",
+      "stats": {
+        "ppg": 22.2,
+        "apg": 4.4,
+        "rpg": 3.9,
+        "mpg": 35.9,
+        "fg_pct": 47.7,
+        "games": 77
+      }
+    },
+    "Dean Wade": {
+      "team": "Cleveland Cavaliers",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.4,
+        "apg": 1.3,
+        "rpg": 4.2,
+        "mpg": 21.2,
+        "fg_pct": 41.3,
+        "games": 59
+      }
+    },
+    "Deandre Ayton": {
+      "team": "Los Angeles Lakers",
+      "impact": 63,
+      "position": "C/F",
+      "stats": {
+        "ppg": 14.4,
+        "apg": 1.6,
+        "rpg": 10.2,
+        "mpg": 30.1,
+        "fg_pct": 56.6,
+        "games": 40
+      }
+    },
+    "Dejounte Murray": {
+      "team": "New Orleans Pelicans",
+      "impact": 64,
+      "position": "G",
+      "stats": {
+        "ppg": 17.5,
+        "apg": 7.4,
+        "rpg": 6.5,
+        "mpg": 32.6,
+        "fg_pct": 39.3,
+        "games": 31
+      }
+    },
+    "Deni Avdija": {
+      "team": "Portland Trail Blazers",
+      "impact": 64,
+      "position": "F",
+      "stats": {
+        "ppg": 16.9,
+        "apg": 3.9,
+        "rpg": 7.3,
+        "mpg": 30.0,
+        "fg_pct": 47.6,
+        "games": 72
+      }
+    },
+    "Dennis Schr\u00f6der": {
+      "team": "Sacramento Kings",
+      "impact": 57,
+      "position": "G/F",
+      "stats": {
+        "ppg": 13.1,
+        "apg": 5.4,
+        "rpg": 2.6,
+        "mpg": 28.1,
+        "fg_pct": 40.6,
+        "games": 75
+      }
+    },
+    "Dereck Lively II": {
+      "team": "Dallas Mavericks",
+      "impact": 60,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.7,
+        "apg": 2.4,
+        "rpg": 7.5,
+        "mpg": 23.1,
+        "fg_pct": 70.2,
+        "games": 36
+      }
+    },
+    "Derrick Jones Jr.": {
+      "team": "Los Angeles Clippers",
+      "impact": 56,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.1,
+        "apg": 0.8,
+        "rpg": 3.4,
+        "mpg": 24.3,
+        "fg_pct": 52.6,
+        "games": 77
+      }
+    },
+    "Derrick White": {
+      "team": "Boston Celtics",
+      "impact": 66,
+      "position": "G/F",
+      "stats": {
+        "ppg": 16.4,
+        "apg": 4.8,
+        "rpg": 4.5,
+        "mpg": 33.9,
+        "fg_pct": 44.2,
+        "games": 76
+      }
+    },
+    "Desmond Bane": {
+      "team": "Orlando Magic",
+      "impact": 68,
+      "position": "F",
+      "stats": {
+        "ppg": 19.2,
+        "apg": 5.3,
+        "rpg": 6.1,
+        "mpg": 32.0,
+        "fg_pct": 48.4,
+        "games": 69
+      }
+    },
+    "Devin Booker": {
+      "team": "Phoenix Suns",
+      "impact": 70,
+      "position": "G",
+      "stats": {
+        "ppg": 25.6,
+        "apg": 7.1,
+        "rpg": 4.1,
+        "mpg": 37.3,
+        "fg_pct": 46.1,
+        "games": 75
+      }
+    },
+    "Devin Carter": {
+      "team": "Sacramento Kings",
+      "impact": 43,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.8,
+        "apg": 1.1,
+        "rpg": 2.1,
+        "mpg": 11.0,
+        "fg_pct": 37.0,
+        "games": 36
+      }
+    },
+    "Devin Vassell": {
+      "team": "San Antonio Spurs",
+      "impact": 59,
+      "position": "G/F",
+      "stats": {
+        "ppg": 16.3,
+        "apg": 2.9,
+        "rpg": 4.0,
+        "mpg": 31.0,
+        "fg_pct": 44.3,
+        "games": 64
+      }
+    },
+    "Dillon Brooks": {
+      "team": "Phoenix Suns",
+      "impact": 58,
+      "position": "G/F",
+      "stats": {
+        "ppg": 14.0,
+        "apg": 1.7,
+        "rpg": 3.7,
+        "mpg": 31.8,
+        "fg_pct": 42.9,
+        "games": 75
+      }
+    },
+    "Dillon Jones": {
+      "team": "New York Knicks",
+      "impact": 42,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.5,
+        "apg": 1.1,
+        "rpg": 2.2,
+        "mpg": 10.2,
+        "fg_pct": 38.3,
+        "games": 54
+      }
+    },
+    "Domantas Sabonis": {
+      "team": "Sacramento Kings",
+      "impact": 74,
+      "position": "C/F",
+      "stats": {
+        "ppg": 19.1,
+        "apg": 6.0,
+        "rpg": 13.9,
+        "mpg": 34.7,
+        "fg_pct": 59.0,
+        "games": 70
+      }
+    },
+    "Dominick Barlow": {
+      "team": "Philadelphia 76ers",
+      "impact": 46,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.2,
+        "apg": 0.5,
+        "rpg": 2.4,
+        "mpg": 10.7,
+        "fg_pct": 53.1,
+        "games": 35
+      }
+    },
+    "Donovan Clingan": {
+      "team": "Portland Trail Blazers",
+      "impact": 56,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.5,
+        "apg": 1.1,
+        "rpg": 7.9,
+        "mpg": 19.8,
+        "fg_pct": 53.9,
+        "games": 67
+      }
+    },
+    "Donovan Mitchell": {
+      "team": "Cleveland Cavaliers",
+      "impact": 70,
+      "position": "G/F",
+      "stats": {
+        "ppg": 24.0,
+        "apg": 5.0,
+        "rpg": 4.5,
+        "mpg": 31.4,
+        "fg_pct": 44.3,
+        "games": 71
+      }
+    },
+    "Donte DiVincenzo": {
+      "team": "Minnesota Timberwolves",
+      "impact": 57,
+      "position": "G/F",
+      "stats": {
+        "ppg": 11.7,
+        "apg": 3.6,
+        "rpg": 3.7,
+        "mpg": 25.9,
+        "fg_pct": 42.2,
+        "games": 62
+      }
+    },
+    "Dorian Finney-Smith": {
+      "team": "Houston Rockets",
+      "impact": 56,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.7,
+        "apg": 1.4,
+        "rpg": 3.9,
+        "mpg": 28.9,
+        "fg_pct": 44.8,
+        "games": 63
+      }
+    },
+    "Doug McDermott": {
+      "team": "Sacramento Kings",
+      "impact": 40,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.5,
+        "apg": 0.2,
+        "rpg": 0.5,
+        "mpg": 8.1,
+        "fg_pct": 42.7,
+        "games": 42
+      }
+    },
+    "Draymond Green": {
+      "team": "Golden State Warriors",
+      "impact": 61,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.0,
+        "apg": 5.6,
+        "rpg": 6.1,
+        "mpg": 29.2,
+        "fg_pct": 42.4,
+        "games": 68
+      }
+    },
+    "Drew Eubanks": {
+      "team": "Sacramento Kings",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.6,
+        "apg": 0.9,
+        "rpg": 3.7,
+        "mpg": 12.2,
+        "fg_pct": 59.3,
+        "games": 61
+      }
+    },
+    "Drew Timme": {
+      "team": "Los Angeles Lakers",
+      "impact": 41,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.1,
+        "apg": 2.2,
+        "rpg": 7.2,
+        "mpg": 28.2,
+        "fg_pct": 44.1,
+        "games": 9
+      }
+    },
+    "Dru Smith": {
+      "team": "Miami Heat",
+      "impact": 46,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.2,
+        "apg": 1.6,
+        "rpg": 2.6,
+        "mpg": 19.2,
+        "fg_pct": 50.8,
+        "games": 14
+      }
+    },
+    "Duncan Robinson": {
+      "team": "Detroit Pistons",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 11.0,
+        "apg": 2.4,
+        "rpg": 2.3,
+        "mpg": 24.1,
+        "fg_pct": 43.7,
+        "games": 74
+      }
+    },
+    "Duop Reath": {
+      "team": "Portland Trail Blazers",
+      "impact": 43,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.2,
+        "apg": 0.6,
+        "rpg": 2.0,
+        "mpg": 10.2,
+        "fg_pct": 42.2,
+        "games": 46
+      }
+    },
+    "Dwight Powell": {
+      "team": "Dallas Mavericks",
+      "impact": 46,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.1,
+        "apg": 1.0,
+        "rpg": 2.1,
+        "mpg": 10.0,
+        "fg_pct": 68.9,
+        "games": 55
+      }
+    },
+    "Dyson Daniels": {
+      "team": "Atlanta Hawks",
+      "impact": 66,
+      "position": "G/F",
+      "stats": {
+        "ppg": 14.1,
+        "apg": 4.4,
+        "rpg": 5.9,
+        "mpg": 33.8,
+        "fg_pct": 49.3,
+        "games": 76
+      }
+    },
+    "E.J. Liddell": {
+      "team": "Brooklyn Nets",
+      "impact": 37,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.8,
+        "apg": 0.3,
+        "rpg": 0.8,
+        "mpg": 4.4,
+        "fg_pct": 53.3,
+        "games": 12
+      }
+    },
+    "Elijah Harkless": {
+      "team": "Utah Jazz",
+      "impact": 37,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.2,
+        "apg": 0.8,
+        "rpg": 2.1,
+        "mpg": 13.8,
+        "fg_pct": 31.4,
+        "games": 10
+      }
+    },
+    "Emanuel Miller": {
+      "team": "Chicago Bulls",
+      "impact": 33,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.7,
+        "apg": 0.3,
+        "rpg": 1.3,
+        "mpg": 4.1,
+        "fg_pct": 50.0,
+        "games": 6
+      }
+    },
+    "Enrique Freeman": {
+      "team": "Minnesota Timberwolves",
+      "impact": 40,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.1,
+        "apg": 0.4,
+        "rpg": 1.4,
+        "mpg": 8.2,
+        "fg_pct": 43.2,
+        "games": 22
+      }
+    },
+    "Eric Gordon": {
+      "team": "Philadelphia 76ers",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.8,
+        "apg": 1.7,
+        "rpg": 1.2,
+        "mpg": 19.7,
+        "fg_pct": 42.6,
+        "games": 39
+      }
+    },
+    "Evan Mobley": {
+      "team": "Cleveland Cavaliers",
+      "impact": 72,
+      "position": "C/F",
+      "stats": {
+        "ppg": 18.5,
+        "apg": 3.2,
+        "rpg": 9.3,
+        "mpg": 30.5,
+        "fg_pct": 55.7,
+        "games": 71
+      }
+    },
+    "Franz Wagner": {
+      "team": "Orlando Magic",
+      "impact": 70,
+      "position": "F",
+      "stats": {
+        "ppg": 24.2,
+        "apg": 4.7,
+        "rpg": 5.7,
+        "mpg": 33.7,
+        "fg_pct": 46.3,
+        "games": 60
+      }
+    },
+    "Fred VanVleet": {
+      "team": "Houston Rockets",
+      "impact": 63,
+      "position": "G/F",
+      "stats": {
+        "ppg": 14.1,
+        "apg": 5.6,
+        "rpg": 3.7,
+        "mpg": 35.2,
+        "fg_pct": 37.8,
+        "games": 60
+      }
+    },
+    "GG Jackson": {
+      "team": "Memphis Grizzlies",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.2,
+        "apg": 1.0,
+        "rpg": 3.2,
+        "mpg": 15.8,
+        "fg_pct": 37.2,
+        "games": 29
+      }
+    },
+    "Gabe Vincent": {
+      "team": "Los Angeles Lakers",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.4,
+        "apg": 1.4,
+        "rpg": 1.3,
+        "mpg": 21.2,
+        "fg_pct": 40.0,
+        "games": 72
+      }
+    },
+    "Garrett Temple": {
+      "team": "Toronto Raptors",
+      "impact": 39,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.9,
+        "apg": 1.1,
+        "rpg": 1.0,
+        "mpg": 8.1,
+        "fg_pct": 30.0,
+        "games": 28
+      }
+    },
+    "Gary Harris": {
+      "team": "Milwaukee Bucks",
+      "impact": 43,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.0,
+        "apg": 0.6,
+        "rpg": 1.3,
+        "mpg": 14.8,
+        "fg_pct": 38.3,
+        "games": 48
+      }
+    },
+    "Gary Payton II": {
+      "team": "Golden State Warriors",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.5,
+        "apg": 1.3,
+        "rpg": 3.0,
+        "mpg": 15.0,
+        "fg_pct": 57.4,
+        "games": 62
+      }
+    },
+    "Gary Trent Jr.": {
+      "team": "Milwaukee Bucks",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 11.1,
+        "apg": 1.2,
+        "rpg": 2.3,
+        "mpg": 25.6,
+        "fg_pct": 43.1,
+        "games": 74
+      }
+    },
+    "Georges Niang": {
+      "team": "Utah Jazz",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.9,
+        "apg": 1.4,
+        "rpg": 3.4,
+        "mpg": 21.5,
+        "fg_pct": 46.1,
+        "games": 79
+      }
+    },
+    "Giannis Antetokounmpo": {
+      "team": "Milwaukee Bucks",
+      "impact": 82,
+      "position": "C/F",
+      "stats": {
+        "ppg": 30.4,
+        "apg": 6.5,
+        "rpg": 11.9,
+        "mpg": 34.2,
+        "fg_pct": 60.1,
+        "games": 67
+      }
+    },
+    "Goga Bitadze": {
+      "team": "Orlando Magic",
+      "impact": 57,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.2,
+        "apg": 2.0,
+        "rpg": 6.6,
+        "mpg": 20.4,
+        "fg_pct": 61.1,
+        "games": 70
+      }
+    },
+    "Gradey Dick": {
+      "team": "Toronto Raptors",
+      "impact": 55,
+      "position": "G/F",
+      "stats": {
+        "ppg": 14.4,
+        "apg": 1.8,
+        "rpg": 3.6,
+        "mpg": 29.4,
+        "fg_pct": 41.0,
+        "games": 54
+      }
+    },
+    "Grant Williams": {
+      "team": "Charlotte Hornets",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.4,
+        "apg": 2.3,
+        "rpg": 5.1,
+        "mpg": 29.9,
+        "fg_pct": 43.9,
+        "games": 16
+      }
+    },
+    "Grayson Allen": {
+      "team": "Phoenix Suns",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.6,
+        "apg": 2.1,
+        "rpg": 3.0,
+        "mpg": 24.1,
+        "fg_pct": 44.8,
+        "games": 64
+      }
+    },
+    "Guerschon Yabusele": {
+      "team": "New York Knicks",
+      "impact": 57,
+      "position": "G/F",
+      "stats": {
+        "ppg": 11.0,
+        "apg": 2.1,
+        "rpg": 5.6,
+        "mpg": 27.1,
+        "fg_pct": 50.1,
+        "games": 70
+      }
+    },
+    "Gui Santos": {
+      "team": "Golden State Warriors",
+      "impact": 47,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.1,
+        "apg": 1.4,
+        "rpg": 3.1,
+        "mpg": 13.6,
+        "fg_pct": 45.8,
+        "games": 56
+      }
+    },
+    "Harrison Barnes": {
+      "team": "San Antonio Spurs",
+      "impact": 57,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.3,
+        "apg": 1.7,
+        "rpg": 3.8,
+        "mpg": 27.2,
+        "fg_pct": 50.8,
+        "games": 82
+      }
+    },
+    "Harrison Ingram": {
+      "team": "San Antonio Spurs",
+      "impact": 34,
+      "position": "G/F",
+      "stats": {
+        "ppg": 0.8,
+        "apg": 0.6,
+        "rpg": 1.8,
+        "mpg": 7.0,
+        "fg_pct": 50.0,
+        "games": 5
+      }
+    },
+    "Haywood Highsmith": {
+      "team": "Brooklyn Nets",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.5,
+        "apg": 1.5,
+        "rpg": 3.4,
+        "mpg": 24.6,
+        "fg_pct": 45.8,
+        "games": 74
+      }
+    },
+    "Herbert Jones": {
+      "team": "New Orleans Pelicans",
+      "impact": 58,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.3,
+        "apg": 3.3,
+        "rpg": 3.9,
+        "mpg": 32.4,
+        "fg_pct": 43.6,
+        "games": 20
+      }
+    },
+    "Hunter Tyson": {
+      "team": "Denver Nuggets",
+      "impact": 39,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.6,
+        "apg": 0.4,
+        "rpg": 1.5,
+        "mpg": 7.8,
+        "fg_pct": 37.5,
+        "games": 51
+      }
+    },
+    "Immanuel Quickley": {
+      "team": "Toronto Raptors",
+      "impact": 60,
+      "position": "G/F",
+      "stats": {
+        "ppg": 17.1,
+        "apg": 5.8,
+        "rpg": 3.5,
+        "mpg": 27.8,
+        "fg_pct": 42.0,
+        "games": 33
+      }
+    },
+    "Isaac Jones": {
+      "team": "Detroit Pistons",
+      "impact": 44,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.4,
+        "apg": 0.3,
+        "rpg": 1.4,
+        "mpg": 7.6,
+        "fg_pct": 65.1,
+        "games": 40
+      }
+    },
+    "Isaac Okoro": {
+      "team": "Chicago Bulls",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.1,
+        "apg": 1.2,
+        "rpg": 2.4,
+        "mpg": 19.1,
+        "fg_pct": 46.4,
+        "games": 55
+      }
+    },
+    "Isaiah Collier": {
+      "team": "Utah Jazz",
+      "impact": 54,
+      "position": "G",
+      "stats": {
+        "ppg": 8.7,
+        "apg": 6.3,
+        "rpg": 3.3,
+        "mpg": 25.9,
+        "fg_pct": 42.2,
+        "games": 71
+      }
+    },
+    "Isaiah Crawford": {
+      "team": "Houston Rockets",
+      "impact": 37,
+      "position": "G/F",
+      "stats": {
+        "ppg": 0.9,
+        "apg": 0.1,
+        "rpg": 0.5,
+        "mpg": 3.0,
+        "fg_pct": 45.5,
+        "games": 15
+      }
+    },
+    "Isaiah Hartenstein": {
+      "team": "Oklahoma City Thunder",
+      "impact": 67,
+      "position": "C/F",
+      "stats": {
+        "ppg": 11.2,
+        "apg": 3.8,
+        "rpg": 10.7,
+        "mpg": 27.9,
+        "fg_pct": 58.1,
+        "games": 57
+      }
+    },
+    "Isaiah Jackson": {
+      "team": "Indiana Pacers",
+      "impact": 36,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.0,
+        "apg": 1.0,
+        "rpg": 5.6,
+        "mpg": 16.8,
+        "fg_pct": 60.9,
+        "games": 5
+      }
+    },
+    "Isaiah Joe": {
+      "team": "Oklahoma City Thunder",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.2,
+        "apg": 1.6,
+        "rpg": 2.6,
+        "mpg": 21.7,
+        "fg_pct": 44.0,
+        "games": 74
+      }
+    },
+    "Isaiah Stevens": {
+      "team": "Sacramento Kings",
+      "impact": 31,
+      "position": "G/F",
+      "stats": {
+        "ppg": 0,
+        "apg": 0,
+        "rpg": 0.7,
+        "mpg": 1.8,
+        "fg_pct": 0,
+        "games": 3
+      }
+    },
+    "Isaiah Stewart": {
+      "team": "Detroit Pistons",
+      "impact": 55,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.0,
+        "apg": 1.7,
+        "rpg": 5.5,
+        "mpg": 19.9,
+        "fg_pct": 55.9,
+        "games": 72
+      }
+    },
+    "Ivica Zubac": {
+      "team": "Los Angeles Clippers",
+      "impact": 71,
+      "position": "C/F",
+      "stats": {
+        "ppg": 16.8,
+        "apg": 2.7,
+        "rpg": 12.6,
+        "mpg": 32.8,
+        "fg_pct": 62.8,
+        "games": 80
+      }
+    },
+    "JD Davison": {
+      "team": "Houston Rockets",
+      "impact": 36,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.1,
+        "apg": 0.8,
+        "rpg": 0.8,
+        "mpg": 5.8,
+        "fg_pct": 35.3,
+        "games": 16
+      }
+    },
+    "Ja Morant": {
+      "team": "Memphis Grizzlies",
+      "impact": 70,
+      "position": "G",
+      "stats": {
+        "ppg": 23.2,
+        "apg": 7.3,
+        "rpg": 4.1,
+        "mpg": 30.4,
+        "fg_pct": 45.4,
+        "games": 50
+      }
+    },
+    "Ja'Kobe Walter": {
+      "team": "Toronto Raptors",
+      "impact": 49,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.6,
+        "apg": 1.6,
+        "rpg": 3.1,
+        "mpg": 21.2,
+        "fg_pct": 40.5,
+        "games": 52
+      }
+    },
+    "Jabari Smith Jr.": {
+      "team": "Houston Rockets",
+      "impact": 59,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.2,
+        "apg": 1.1,
+        "rpg": 7.0,
+        "mpg": 30.1,
+        "fg_pct": 43.8,
+        "games": 57
+      }
+    },
+    "Jabari Walker": {
+      "team": "Philadelphia 76ers",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.2,
+        "apg": 0.6,
+        "rpg": 3.5,
+        "mpg": 12.5,
+        "fg_pct": 51.5,
+        "games": 60
+      }
+    },
+    "Jaden Hardy": {
+      "team": "Dallas Mavericks",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.7,
+        "apg": 1.4,
+        "rpg": 1.6,
+        "mpg": 15.9,
+        "fg_pct": 43.5,
+        "games": 57
+      }
+    },
+    "Jaden Ivey": {
+      "team": "Detroit Pistons",
+      "impact": 61,
+      "position": "G/F",
+      "stats": {
+        "ppg": 17.6,
+        "apg": 4.0,
+        "rpg": 4.1,
+        "mpg": 29.9,
+        "fg_pct": 46.0,
+        "games": 30
+      }
+    },
+    "Jaden McDaniels": {
+      "team": "Minnesota Timberwolves",
+      "impact": 61,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.2,
+        "apg": 2.0,
+        "rpg": 5.7,
+        "mpg": 31.9,
+        "fg_pct": 47.7,
+        "games": 82
+      }
+    },
+    "Jae'Sean Tate": {
+      "team": "Houston Rockets",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.6,
+        "apg": 0.9,
+        "rpg": 2.3,
+        "mpg": 11.3,
+        "fg_pct": 47.3,
+        "games": 52
+      }
+    },
+    "Jahmir Young": {
+      "team": "Miami Heat",
+      "impact": 34,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.8,
+        "apg": 1.0,
+        "rpg": 0.5,
+        "mpg": 4.9,
+        "fg_pct": 80.0,
+        "games": 6
+      }
+    },
+    "Jaime Jaquez Jr.": {
+      "team": "Miami Heat",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.6,
+        "apg": 2.5,
+        "rpg": 4.4,
+        "mpg": 20.7,
+        "fg_pct": 46.1,
+        "games": 66
+      }
+    },
+    "Jake LaRavia": {
+      "team": "Los Angeles Lakers",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.9,
+        "apg": 2.4,
+        "rpg": 3.9,
+        "mpg": 20.4,
+        "fg_pct": 47.5,
+        "games": 66
+      }
+    },
+    "Jakob Poeltl": {
+      "team": "Toronto Raptors",
+      "impact": 66,
+      "position": "C/F",
+      "stats": {
+        "ppg": 14.5,
+        "apg": 2.8,
+        "rpg": 9.6,
+        "mpg": 29.6,
+        "fg_pct": 62.7,
+        "games": 57
+      }
+    },
+    "Jalen Brunson": {
+      "team": "New York Knicks",
+      "impact": 72,
+      "position": "G",
+      "stats": {
+        "ppg": 26.0,
+        "apg": 7.3,
+        "rpg": 2.9,
+        "mpg": 35.4,
+        "fg_pct": 48.8,
+        "games": 65
+      }
+    },
+    "Jalen Duren": {
+      "team": "Detroit Pistons",
+      "impact": 63,
+      "position": "C/F",
+      "stats": {
+        "ppg": 11.8,
+        "apg": 2.7,
+        "rpg": 10.3,
+        "mpg": 26.1,
+        "fg_pct": 69.2,
+        "games": 78
+      }
+    },
+    "Jalen Green": {
+      "team": "Phoenix Suns",
+      "impact": 64,
+      "position": "G/F",
+      "stats": {
+        "ppg": 21.0,
+        "apg": 3.4,
+        "rpg": 4.6,
+        "mpg": 32.9,
+        "fg_pct": 42.3,
+        "games": 82
+      }
+    },
+    "Jalen Johnson": {
+      "team": "Atlanta Hawks",
+      "impact": 72,
+      "position": "C/F",
+      "stats": {
+        "ppg": 18.9,
+        "apg": 5.0,
+        "rpg": 10.0,
+        "mpg": 35.7,
+        "fg_pct": 50.0,
+        "games": 36
+      }
+    },
+    "Jalen Pickett": {
+      "team": "Denver Nuggets",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.1,
+        "apg": 2.2,
+        "rpg": 1.4,
+        "mpg": 13.6,
+        "fg_pct": 42.8,
+        "games": 49
+      }
+    },
+    "Jalen Smith": {
+      "team": "Chicago Bulls",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.2,
+        "apg": 1.0,
+        "rpg": 5.6,
+        "mpg": 15.0,
+        "fg_pct": 46.6,
+        "games": 64
+      }
+    },
+    "Jalen Suggs": {
+      "team": "Orlando Magic",
+      "impact": 61,
+      "position": "G/F",
+      "stats": {
+        "ppg": 16.2,
+        "apg": 3.7,
+        "rpg": 4.0,
+        "mpg": 28.6,
+        "fg_pct": 41.0,
+        "games": 35
+      }
+    },
+    "Jalen Williams": {
+      "team": "Oklahoma City Thunder",
+      "impact": 71,
+      "position": "F",
+      "stats": {
+        "ppg": 21.6,
+        "apg": 5.1,
+        "rpg": 5.3,
+        "mpg": 32.4,
+        "fg_pct": 48.4,
+        "games": 69
+      }
+    },
+    "Jalen Wilson": {
+      "team": "Brooklyn Nets",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.5,
+        "apg": 1.8,
+        "rpg": 3.4,
+        "mpg": 25.7,
+        "fg_pct": 39.7,
+        "games": 79
+      }
+    },
+    "Jamal Cain": {
+      "team": "Orlando Magic",
+      "impact": 44,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.3,
+        "apg": 0.6,
+        "rpg": 2.3,
+        "mpg": 13.6,
+        "fg_pct": 43.0,
+        "games": 37
+      }
+    },
+    "Jamal Murray": {
+      "team": "Denver Nuggets",
+      "impact": 70,
+      "position": "G/F",
+      "stats": {
+        "ppg": 21.4,
+        "apg": 6.0,
+        "rpg": 3.9,
+        "mpg": 36.1,
+        "fg_pct": 47.4,
+        "games": 67
+      }
+    },
+    "Jamal Shead": {
+      "team": "Toronto Raptors",
+      "impact": 49,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.1,
+        "apg": 4.2,
+        "rpg": 1.5,
+        "mpg": 19.6,
+        "fg_pct": 40.5,
+        "games": 75
+      }
+    },
+    "Jamaree Bouyea": {
+      "team": "Phoenix Suns",
+      "impact": 34,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.4,
+        "apg": 2.0,
+        "rpg": 1.0,
+        "mpg": 12.3,
+        "fg_pct": 50.0,
+        "games": 5
+      }
+    },
+    "James Harden": {
+      "team": "Los Angeles Clippers",
+      "impact": 73,
+      "position": "G",
+      "stats": {
+        "ppg": 22.8,
+        "apg": 8.7,
+        "rpg": 5.8,
+        "mpg": 35.3,
+        "fg_pct": 41.0,
+        "games": 79
+      }
+    },
+    "Jamison Battle": {
+      "team": "Toronto Raptors",
+      "impact": 46,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.1,
+        "apg": 0.9,
+        "rpg": 2.7,
+        "mpg": 17.7,
+        "fg_pct": 42.9,
+        "games": 59
+      }
+    },
+    "Jarace Walker": {
+      "team": "Indiana Pacers",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.1,
+        "apg": 1.5,
+        "rpg": 3.1,
+        "mpg": 15.8,
+        "fg_pct": 47.2,
+        "games": 75
+      }
+    },
+    "Jared McCain": {
+      "team": "Philadelphia 76ers",
+      "impact": 56,
+      "position": "G/F",
+      "stats": {
+        "ppg": 15.3,
+        "apg": 2.6,
+        "rpg": 2.4,
+        "mpg": 25.7,
+        "fg_pct": 46.0,
+        "games": 23
+      }
+    },
+    "Jaren Jackson Jr.": {
+      "team": "Memphis Grizzlies",
+      "impact": 68,
+      "position": "F",
+      "stats": {
+        "ppg": 22.2,
+        "apg": 2.0,
+        "rpg": 5.6,
+        "mpg": 29.8,
+        "fg_pct": 48.8,
+        "games": 74
+      }
+    },
+    "Jarred Vanderbilt": {
+      "team": "Los Angeles Lakers",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.1,
+        "apg": 1.1,
+        "rpg": 5.1,
+        "mpg": 16.1,
+        "fg_pct": 48.8,
+        "games": 36
+      }
+    },
+    "Jarrett Allen": {
+      "team": "Cleveland Cavaliers",
+      "impact": 66,
+      "position": "C/F",
+      "stats": {
+        "ppg": 13.5,
+        "apg": 1.9,
+        "rpg": 9.7,
+        "mpg": 28.0,
+        "fg_pct": 70.6,
+        "games": 82
+      }
+    },
+    "Javonte Green": {
+      "team": "Detroit Pistons",
+      "impact": 47,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.1,
+        "apg": 0.8,
+        "rpg": 3.2,
+        "mpg": 18.5,
+        "fg_pct": 42.9,
+        "games": 68
+      }
+    },
+    "Jaxson Hayes": {
+      "team": "Los Angeles Lakers",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.8,
+        "apg": 1.0,
+        "rpg": 4.8,
+        "mpg": 19.5,
+        "fg_pct": 72.2,
+        "games": 56
+      }
+    },
+    "Jay Huff": {
+      "team": "Indiana Pacers",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.9,
+        "apg": 0.6,
+        "rpg": 2.0,
+        "mpg": 11.7,
+        "fg_pct": 51.5,
+        "games": 64
+      }
+    },
+    "Jaylen Brown": {
+      "team": "Boston Celtics",
+      "impact": 70,
+      "position": "F",
+      "stats": {
+        "ppg": 22.2,
+        "apg": 4.5,
+        "rpg": 5.8,
+        "mpg": 34.3,
+        "fg_pct": 46.3,
+        "games": 63
+      }
+    },
+    "Jaylen Clark": {
+      "team": "Minnesota Timberwolves",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.1,
+        "apg": 0.7,
+        "rpg": 1.3,
+        "mpg": 13.0,
+        "fg_pct": 46.7,
+        "games": 40
+      }
+    },
+    "Jaylen Wells": {
+      "team": "Memphis Grizzlies",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.4,
+        "apg": 1.7,
+        "rpg": 3.4,
+        "mpg": 25.9,
+        "fg_pct": 42.5,
+        "games": 79
+      }
+    },
+    "Jaylin Williams": {
+      "team": "Oklahoma City Thunder",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.9,
+        "apg": 2.6,
+        "rpg": 5.6,
+        "mpg": 16.7,
+        "fg_pct": 43.9,
+        "games": 47
+      }
+    },
+    "Jaylon Tyson": {
+      "team": "Cleveland Cavaliers",
+      "impact": 43,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.6,
+        "apg": 0.9,
+        "rpg": 2.0,
+        "mpg": 9.6,
+        "fg_pct": 43.0,
+        "games": 47
+      }
+    },
+    "Jayson Tatum": {
+      "team": "Boston Celtics",
+      "impact": 76,
+      "position": "C/F",
+      "stats": {
+        "ppg": 26.8,
+        "apg": 6.0,
+        "rpg": 8.7,
+        "mpg": 36.4,
+        "fg_pct": 45.2,
+        "games": 72
+      }
+    },
+    "Jeff Green": {
+      "team": "Houston Rockets",
+      "impact": 46,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.4,
+        "apg": 0.6,
+        "rpg": 1.8,
+        "mpg": 12.4,
+        "fg_pct": 50.4,
+        "games": 32
+      }
+    },
+    "Jerami Grant": {
+      "team": "Portland Trail Blazers",
+      "impact": 56,
+      "position": "G/F",
+      "stats": {
+        "ppg": 14.4,
+        "apg": 2.1,
+        "rpg": 3.5,
+        "mpg": 32.4,
+        "fg_pct": 37.3,
+        "games": 47
+      }
+    },
+    "Jeremy Sochan": {
+      "team": "San Antonio Spurs",
+      "impact": 59,
+      "position": "G/F",
+      "stats": {
+        "ppg": 11.4,
+        "apg": 2.4,
+        "rpg": 6.5,
+        "mpg": 25.3,
+        "fg_pct": 53.5,
+        "games": 54
+      }
+    },
+    "Jericho Sims": {
+      "team": "Milwaukee Bucks",
+      "impact": 47,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.8,
+        "apg": 0.6,
+        "rpg": 3.7,
+        "mpg": 11.9,
+        "fg_pct": 63.4,
+        "games": 53
+      }
+    },
+    "Jett Howard": {
+      "team": "Orlando Magic",
+      "impact": 41,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.5,
+        "apg": 0.7,
+        "rpg": 1.2,
+        "mpg": 11.7,
+        "fg_pct": 37.4,
+        "games": 60
+      }
+    },
+    "Jevon Carter": {
+      "team": "Chicago Bulls",
+      "impact": 42,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.3,
+        "apg": 1.1,
+        "rpg": 1.1,
+        "mpg": 8.9,
+        "fg_pct": 37.7,
+        "games": 36
+      }
+    },
+    "Jimmy Butler III": {
+      "team": "Golden State Warriors",
+      "impact": 68,
+      "position": "F",
+      "stats": {
+        "ppg": 17.5,
+        "apg": 5.4,
+        "rpg": 5.4,
+        "mpg": 31.7,
+        "fg_pct": 50.4,
+        "games": 55
+      }
+    },
+    "Jock Landale": {
+      "team": "Memphis Grizzlies",
+      "impact": 47,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.8,
+        "apg": 0.9,
+        "rpg": 3.3,
+        "mpg": 11.9,
+        "fg_pct": 53.3,
+        "games": 42
+      }
+    },
+    "Joe Ingles": {
+      "team": "Minnesota Timberwolves",
+      "impact": 37,
+      "position": "G/F",
+      "stats": {
+        "ppg": 0.8,
+        "apg": 1.2,
+        "rpg": 0.6,
+        "mpg": 6.0,
+        "fg_pct": 26.1,
+        "games": 19
+      }
+    },
+    "Joel Embiid": {
+      "team": "Philadelphia 76ers",
+      "impact": 66,
+      "position": "C/F",
+      "stats": {
+        "ppg": 23.8,
+        "apg": 4.5,
+        "rpg": 8.2,
+        "mpg": 30.2,
+        "fg_pct": 44.4,
+        "games": 19
+      }
+    },
+    "John Collins": {
+      "team": "Los Angeles Clippers",
+      "impact": 66,
+      "position": "C/F",
+      "stats": {
+        "ppg": 19.0,
+        "apg": 2.0,
+        "rpg": 8.2,
+        "mpg": 30.5,
+        "fg_pct": 52.7,
+        "games": 40
+      }
+    },
+    "John Konchar": {
+      "team": "Memphis Grizzlies",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.4,
+        "apg": 0.9,
+        "rpg": 3.3,
+        "mpg": 12.1,
+        "fg_pct": 45.1,
+        "games": 46
+      }
+    },
+    "Johnny Furphy": {
+      "team": "Indiana Pacers",
+      "impact": 40,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.1,
+        "apg": 0.4,
+        "rpg": 1.4,
+        "mpg": 7.6,
+        "fg_pct": 38.0,
+        "games": 50
+      }
+    },
+    "Johnny Juzang": {
+      "team": "Minnesota Timberwolves",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.9,
+        "apg": 1.1,
+        "rpg": 2.9,
+        "mpg": 19.8,
+        "fg_pct": 42.9,
+        "games": 64
+      }
+    },
+    "Jonas Valan\u010di\u016bnas": {
+      "team": "Denver Nuggets",
+      "impact": 56,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.4,
+        "apg": 2.0,
+        "rpg": 7.7,
+        "mpg": 18.8,
+        "fg_pct": 55.0,
+        "games": 81
+      }
+    },
+    "Jonathan Isaac": {
+      "team": "Orlando Magic",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.4,
+        "apg": 0.6,
+        "rpg": 4.4,
+        "mpg": 15.4,
+        "fg_pct": 41.4,
+        "games": 71
+      }
+    },
+    "Jonathan Kuminga": {
+      "team": "Golden State Warriors",
+      "impact": 58,
+      "position": "G/F",
+      "stats": {
+        "ppg": 15.3,
+        "apg": 2.2,
+        "rpg": 4.6,
+        "mpg": 24.3,
+        "fg_pct": 45.4,
+        "games": 47
+      }
+    },
+    "Jonathan Mogbo": {
+      "team": "Toronto Raptors",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.2,
+        "apg": 2.3,
+        "rpg": 4.9,
+        "mpg": 20.4,
+        "fg_pct": 43.8,
+        "games": 63
+      }
+    },
+    "Jordan Clarkson": {
+      "team": "New York Knicks",
+      "impact": 56,
+      "position": "G/F",
+      "stats": {
+        "ppg": 16.2,
+        "apg": 3.7,
+        "rpg": 3.2,
+        "mpg": 26.0,
+        "fg_pct": 40.8,
+        "games": 37
+      }
+    },
+    "Jordan Goodwin": {
+      "team": "Phoenix Suns",
+      "impact": 49,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.6,
+        "apg": 1.4,
+        "rpg": 3.9,
+        "mpg": 18.7,
+        "fg_pct": 43.8,
+        "games": 29
+      }
+    },
+    "Jordan Hawkins": {
+      "team": "New Orleans Pelicans",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.8,
+        "apg": 1.2,
+        "rpg": 2.8,
+        "mpg": 23.6,
+        "fg_pct": 37.2,
+        "games": 56
+      }
+    },
+    "Jordan McLaughlin": {
+      "team": "San Antonio Spurs",
+      "impact": 41,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.1,
+        "apg": 1.1,
+        "rpg": 0.7,
+        "mpg": 6.8,
+        "fg_pct": 43.1,
+        "games": 46
+      }
+    },
+    "Jordan Miller": {
+      "team": "Los Angeles Clippers",
+      "impact": 43,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.1,
+        "apg": 0.9,
+        "rpg": 1.6,
+        "mpg": 11.4,
+        "fg_pct": 43.3,
+        "games": 37
+      }
+    },
+    "Jordan Poole": {
+      "team": "New Orleans Pelicans",
+      "impact": 60,
+      "position": "G/F",
+      "stats": {
+        "ppg": 20.5,
+        "apg": 4.5,
+        "rpg": 3.0,
+        "mpg": 29.4,
+        "fg_pct": 43.2,
+        "games": 68
+      }
+    },
+    "Jordan Walsh": {
+      "team": "Boston Celtics",
+      "impact": 38,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.6,
+        "apg": 0.4,
+        "rpg": 1.3,
+        "mpg": 7.8,
+        "fg_pct": 36.1,
+        "games": 52
+      }
+    },
+    "Jose Alvarado": {
+      "team": "New Orleans Pelicans",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.3,
+        "apg": 4.6,
+        "rpg": 2.4,
+        "mpg": 24.4,
+        "fg_pct": 39.2,
+        "games": 56
+      }
+    },
+    "Josh Giddey": {
+      "team": "Chicago Bulls",
+      "impact": 66,
+      "position": "C/F",
+      "stats": {
+        "ppg": 14.6,
+        "apg": 7.2,
+        "rpg": 8.1,
+        "mpg": 30.2,
+        "fg_pct": 46.5,
+        "games": 70
+      }
+    },
+    "Josh Green": {
+      "team": "Charlotte Hornets",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.4,
+        "apg": 1.6,
+        "rpg": 2.5,
+        "mpg": 27.8,
+        "fg_pct": 42.8,
+        "games": 68
+      }
+    },
+    "Josh Hart": {
+      "team": "New York Knicks",
+      "impact": 70,
+      "position": "C/F",
+      "stats": {
+        "ppg": 13.6,
+        "apg": 5.9,
+        "rpg": 9.6,
+        "mpg": 37.6,
+        "fg_pct": 52.5,
+        "games": 77
+      }
+    },
+    "Josh Minott": {
+      "team": "Boston Celtics",
+      "impact": 42,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.6,
+        "apg": 0.4,
+        "rpg": 1.0,
+        "mpg": 6.0,
+        "fg_pct": 48.9,
+        "games": 46
+      }
+    },
+    "Josh Okogie": {
+      "team": "Houston Rockets",
+      "impact": 49,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.1,
+        "apg": 0.8,
+        "rpg": 2.8,
+        "mpg": 15.6,
+        "fg_pct": 44.3,
+        "games": 40
+      }
+    },
+    "Jrue Holiday": {
+      "team": "Portland Trail Blazers",
+      "impact": 60,
+      "position": "G/F",
+      "stats": {
+        "ppg": 11.1,
+        "apg": 3.9,
+        "rpg": 4.3,
+        "mpg": 30.6,
+        "fg_pct": 44.3,
+        "games": 62
+      }
+    },
+    "Julian Champagnie": {
+      "team": "San Antonio Spurs",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.9,
+        "apg": 1.4,
+        "rpg": 3.9,
+        "mpg": 23.6,
+        "fg_pct": 41.5,
+        "games": 82
+      }
+    },
+    "Julian Phillips": {
+      "team": "Chicago Bulls",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.6,
+        "apg": 0.5,
+        "rpg": 2.1,
+        "mpg": 14.2,
+        "fg_pct": 44.6,
+        "games": 79
+      }
+    },
+    "Julian Strawther": {
+      "team": "Denver Nuggets",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.0,
+        "apg": 1.3,
+        "rpg": 2.2,
+        "mpg": 21.3,
+        "fg_pct": 43.2,
+        "games": 65
+      }
+    },
+    "Julius Randle": {
+      "team": "Minnesota Timberwolves",
+      "impact": 67,
+      "position": "F",
+      "stats": {
+        "ppg": 18.7,
+        "apg": 4.7,
+        "rpg": 7.1,
+        "mpg": 32.3,
+        "fg_pct": 48.5,
+        "games": 69
+      }
+    },
+    "Justin Champagnie": {
+      "team": "Washington Wizards",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.8,
+        "apg": 1.0,
+        "rpg": 5.7,
+        "mpg": 21.6,
+        "fg_pct": 51.1,
+        "games": 62
+      }
+    },
+    "Justin Edwards": {
+      "team": "Philadelphia 76ers",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.1,
+        "apg": 1.6,
+        "rpg": 3.4,
+        "mpg": 26.2,
+        "fg_pct": 45.5,
+        "games": 44
+      }
+    },
+    "Jusuf Nurki\u0107": {
+      "team": "Utah Jazz",
+      "impact": 55,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.9,
+        "apg": 2.3,
+        "rpg": 7.8,
+        "mpg": 20.8,
+        "fg_pct": 47.7,
+        "games": 51
+      }
+    },
+    "KJ Simpson": {
+      "team": "Charlotte Hornets",
+      "impact": 47,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.8,
+        "apg": 3.1,
+        "rpg": 3.0,
+        "mpg": 23.4,
+        "fg_pct": 34.6,
+        "games": 36
+      }
+    },
+    "Karl-Anthony Towns": {
+      "team": "New York Knicks",
+      "impact": 76,
+      "position": "C/F",
+      "stats": {
+        "ppg": 24.4,
+        "apg": 3.1,
+        "rpg": 12.8,
+        "mpg": 35.0,
+        "fg_pct": 52.6,
+        "games": 72
+      }
+    },
+    "Karlo Matkovi\u0107": {
+      "team": "New Orleans Pelicans",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.7,
+        "apg": 1.1,
+        "rpg": 5.0,
+        "mpg": 18.8,
+        "fg_pct": 57.4,
+        "games": 42
+      }
+    },
+    "Kawhi Leonard": {
+      "team": "Los Angeles Clippers",
+      "impact": 70,
+      "position": "F",
+      "stats": {
+        "ppg": 21.5,
+        "apg": 3.1,
+        "rpg": 5.9,
+        "mpg": 31.9,
+        "fg_pct": 49.8,
+        "games": 37
+      }
+    },
+    "Keaton Wallace": {
+      "team": "Atlanta Hawks",
+      "impact": 47,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.4,
+        "apg": 2.6,
+        "rpg": 1.6,
+        "mpg": 16.2,
+        "fg_pct": 40.1,
+        "games": 31
+      }
+    },
+    "Keegan Murray": {
+      "team": "Sacramento Kings",
+      "impact": 60,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.4,
+        "apg": 1.4,
+        "rpg": 6.7,
+        "mpg": 34.3,
+        "fg_pct": 44.4,
+        "games": 76
+      }
+    },
+    "Kel'el Ware": {
+      "team": "Miami Heat",
+      "impact": 58,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.3,
+        "apg": 0.9,
+        "rpg": 7.4,
+        "mpg": 22.2,
+        "fg_pct": 55.4,
+        "games": 64
+      }
+    },
+    "Keldon Johnson": {
+      "team": "San Antonio Spurs",
+      "impact": 55,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.7,
+        "apg": 1.6,
+        "rpg": 4.8,
+        "mpg": 23.9,
+        "fg_pct": 48.2,
+        "games": 77
+      }
+    },
+    "Kelly Olynyk": {
+      "team": "San Antonio Spurs",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.7,
+        "apg": 2.9,
+        "rpg": 4.7,
+        "mpg": 20.2,
+        "fg_pct": 50.0,
+        "games": 44
+      }
+    },
+    "Kelly Oubre Jr.": {
+      "team": "Philadelphia 76ers",
+      "impact": 61,
+      "position": "F",
+      "stats": {
+        "ppg": 15.1,
+        "apg": 1.8,
+        "rpg": 6.1,
+        "mpg": 34.6,
+        "fg_pct": 47.0,
+        "games": 60
+      }
+    },
+    "Kenrich Williams": {
+      "team": "Oklahoma City Thunder",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.3,
+        "apg": 1.4,
+        "rpg": 3.5,
+        "mpg": 16.4,
+        "fg_pct": 48.3,
+        "games": 69
+      }
+    },
+    "Kentavious Caldwell-Pope": {
+      "team": "Memphis Grizzlies",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.7,
+        "apg": 1.8,
+        "rpg": 2.2,
+        "mpg": 29.6,
+        "fg_pct": 43.9,
+        "games": 77
+      }
+    },
+    "Keon Ellis": {
+      "team": "Sacramento Kings",
+      "impact": 55,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.3,
+        "apg": 1.5,
+        "rpg": 2.7,
+        "mpg": 24.4,
+        "fg_pct": 48.9,
+        "games": 80
+      }
+    },
+    "Keshad Johnson": {
+      "team": "Miami Heat",
+      "impact": 41,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.7,
+        "apg": 0.3,
+        "rpg": 1.8,
+        "mpg": 6.1,
+        "fg_pct": 69.2,
+        "games": 16
+      }
+    },
+    "Kevin Durant": {
+      "team": "Houston Rockets",
+      "impact": 73,
+      "position": "F",
+      "stats": {
+        "ppg": 26.6,
+        "apg": 4.2,
+        "rpg": 6.0,
+        "mpg": 36.5,
+        "fg_pct": 52.7,
+        "games": 62
+      }
+    },
+    "Kevin Huerter": {
+      "team": "Chicago Bulls",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.9,
+        "apg": 2.3,
+        "rpg": 3.0,
+        "mpg": 24.3,
+        "fg_pct": 42.5,
+        "games": 69
+      }
+    },
+    "Kevin Love": {
+      "team": "Utah Jazz",
+      "impact": 44,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.3,
+        "apg": 1.0,
+        "rpg": 4.1,
+        "mpg": 10.9,
+        "fg_pct": 35.7,
+        "games": 23
+      }
+    },
+    "Kevin McCullar Jr.": {
+      "team": "New York Knicks",
+      "impact": 32,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.5,
+        "apg": 0.5,
+        "rpg": 2.0,
+        "mpg": 7.3,
+        "fg_pct": 28.6,
+        "games": 4
+      }
+    },
+    "Kevin Porter Jr.": {
+      "team": "Milwaukee Bucks",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.3,
+        "apg": 3.4,
+        "rpg": 3.7,
+        "mpg": 19.8,
+        "fg_pct": 44.9,
+        "games": 75
+      }
+    },
+    "Kevon Looney": {
+      "team": "New Orleans Pelicans",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.5,
+        "apg": 1.6,
+        "rpg": 6.1,
+        "mpg": 15.0,
+        "fg_pct": 51.4,
+        "games": 76
+      }
+    },
+    "Keyonte George": {
+      "team": "Utah Jazz",
+      "impact": 58,
+      "position": "G/F",
+      "stats": {
+        "ppg": 16.8,
+        "apg": 5.6,
+        "rpg": 3.8,
+        "mpg": 31.5,
+        "fg_pct": 39.1,
+        "games": 67
+      }
+    },
+    "Khris Middleton": {
+      "team": "Washington Wizards",
+      "impact": 57,
+      "position": "G/F",
+      "stats": {
+        "ppg": 11.9,
+        "apg": 4.1,
+        "rpg": 3.7,
+        "mpg": 22.8,
+        "fg_pct": 47.5,
+        "games": 37
+      }
+    },
+    "Klay Thompson": {
+      "team": "Dallas Mavericks",
+      "impact": 55,
+      "position": "G/F",
+      "stats": {
+        "ppg": 14.0,
+        "apg": 2.0,
+        "rpg": 3.4,
+        "mpg": 27.3,
+        "fg_pct": 41.2,
+        "games": 72
+      }
+    },
+    "Kobe Brown": {
+      "team": "Los Angeles Clippers",
+      "impact": 41,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.9,
+        "apg": 0.6,
+        "rpg": 1.6,
+        "mpg": 6.8,
+        "fg_pct": 45.8,
+        "games": 40
+      }
+    },
+    "Kris Dunn": {
+      "team": "Los Angeles Clippers",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.4,
+        "apg": 2.8,
+        "rpg": 3.4,
+        "mpg": 24.1,
+        "fg_pct": 43.9,
+        "games": 74
+      }
+    },
+    "Kris Murray": {
+      "team": "Portland Trail Blazers",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.2,
+        "apg": 1.0,
+        "rpg": 2.6,
+        "mpg": 15.1,
+        "fg_pct": 41.9,
+        "games": 69
+      }
+    },
+    "Kristaps Porzi\u0146\u0123is": {
+      "team": "Atlanta Hawks",
+      "impact": 66,
+      "position": "F",
+      "stats": {
+        "ppg": 19.5,
+        "apg": 2.1,
+        "rpg": 6.8,
+        "mpg": 28.8,
+        "fg_pct": 48.3,
+        "games": 42
+      }
+    },
+    "Kyle Anderson": {
+      "team": "Utah Jazz",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.9,
+        "apg": 2.4,
+        "rpg": 3.4,
+        "mpg": 16.4,
+        "fg_pct": 46.9,
+        "games": 61
+      }
+    },
+    "Kyle Filipowski": {
+      "team": "Utah Jazz",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.6,
+        "apg": 1.9,
+        "rpg": 6.1,
+        "mpg": 21.1,
+        "fg_pct": 50.2,
+        "games": 72
+      }
+    },
+    "Kyle Kuzma": {
+      "team": "Milwaukee Bucks",
+      "impact": 56,
+      "position": "G/F",
+      "stats": {
+        "ppg": 14.8,
+        "apg": 2.3,
+        "rpg": 5.7,
+        "mpg": 29.8,
+        "fg_pct": 43.6,
+        "games": 65
+      }
+    },
+    "Kyle Lowry": {
+      "team": "Philadelphia 76ers",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.9,
+        "apg": 2.7,
+        "rpg": 1.9,
+        "mpg": 18.8,
+        "fg_pct": 35.0,
+        "games": 35
+      }
+    },
+    "Kyrie Irving": {
+      "team": "Dallas Mavericks",
+      "impact": 71,
+      "position": "G/F",
+      "stats": {
+        "ppg": 24.7,
+        "apg": 4.6,
+        "rpg": 4.8,
+        "mpg": 36.1,
+        "fg_pct": 47.3,
+        "games": 50
+      }
+    },
+    "Kyshawn George": {
+      "team": "Washington Wizards",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.7,
+        "apg": 2.5,
+        "rpg": 4.2,
+        "mpg": 26.5,
+        "fg_pct": 37.2,
+        "games": 68
+      }
+    },
+    "LaMelo Ball": {
+      "team": "Charlotte Hornets",
+      "impact": 68,
+      "position": "G",
+      "stats": {
+        "ppg": 25.2,
+        "apg": 7.4,
+        "rpg": 4.9,
+        "mpg": 32.0,
+        "fg_pct": 40.5,
+        "games": 47
+      }
+    },
+    "Landry Shamet": {
+      "team": "New York Knicks",
+      "impact": 46,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.7,
+        "apg": 0.5,
+        "rpg": 1.2,
+        "mpg": 15.2,
+        "fg_pct": 46.1,
+        "games": 50
+      }
+    },
+    "Larry Nance Jr.": {
+      "team": "Cleveland Cavaliers",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.5,
+        "apg": 1.6,
+        "rpg": 4.3,
+        "mpg": 19.3,
+        "fg_pct": 51.6,
+        "games": 24
+      }
+    },
+    "Lauri Markkanen": {
+      "team": "Utah Jazz",
+      "impact": 60,
+      "position": "F",
+      "stats": {
+        "ppg": 19.0,
+        "apg": 1.5,
+        "rpg": 5.9,
+        "mpg": 31.4,
+        "fg_pct": 42.3,
+        "games": 47
+      }
+    },
+    "LeBron James": {
+      "team": "Los Angeles Lakers",
+      "impact": 75,
+      "position": "G",
+      "stats": {
+        "ppg": 24.4,
+        "apg": 8.2,
+        "rpg": 7.8,
+        "mpg": 34.9,
+        "fg_pct": 51.3,
+        "games": 70
+      }
+    },
+    "Leonard Miller": {
+      "team": "Minnesota Timberwolves",
+      "impact": 34,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.5,
+        "apg": 0,
+        "rpg": 0.8,
+        "mpg": 2.4,
+        "fg_pct": 40.0,
+        "games": 13
+      }
+    },
+    "Lindy Waters III": {
+      "team": "San Antonio Spurs",
+      "impact": 44,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.9,
+        "apg": 1.0,
+        "rpg": 2.1,
+        "mpg": 15.0,
+        "fg_pct": 36.9,
+        "games": 52
+      }
+    },
+    "Lonzo Ball": {
+      "team": "Cleveland Cavaliers",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.6,
+        "apg": 3.3,
+        "rpg": 3.4,
+        "mpg": 22.2,
+        "fg_pct": 36.6,
+        "games": 35
+      }
+    },
+    "Luguentz Dort": {
+      "team": "Oklahoma City Thunder",
+      "impact": 58,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.1,
+        "apg": 1.6,
+        "rpg": 4.1,
+        "mpg": 29.2,
+        "fg_pct": 43.5,
+        "games": 71
+      }
+    },
+    "Luka Don\u010di\u0107": {
+      "team": "Los Angeles Lakers",
+      "impact": 78,
+      "position": "C/F",
+      "stats": {
+        "ppg": 28.2,
+        "apg": 7.7,
+        "rpg": 8.2,
+        "mpg": 35.4,
+        "fg_pct": 45.0,
+        "games": 50
+      }
+    },
+    "Luka Garza": {
+      "team": "Boston Celtics",
+      "impact": 42,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.5,
+        "apg": 0.3,
+        "rpg": 1.4,
+        "mpg": 5.6,
+        "fg_pct": 49.5,
+        "games": 39
+      }
+    },
+    "Luke Kennard": {
+      "team": "Atlanta Hawks",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.9,
+        "apg": 3.3,
+        "rpg": 2.8,
+        "mpg": 22.6,
+        "fg_pct": 47.8,
+        "games": 65
+      }
+    },
+    "Luke Kornet": {
+      "team": "San Antonio Spurs",
+      "impact": 55,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.0,
+        "apg": 1.6,
+        "rpg": 5.3,
+        "mpg": 18.6,
+        "fg_pct": 66.8,
+        "games": 73
+      }
+    },
+    "Luke Travers": {
+      "team": "Cleveland Cavaliers",
+      "impact": 35,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.0,
+        "apg": 0.7,
+        "rpg": 1.7,
+        "mpg": 7.3,
+        "fg_pct": 25.0,
+        "games": 12
+      }
+    },
+    "Malaki Branham": {
+      "team": "Washington Wizards",
+      "impact": 43,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.0,
+        "apg": 0.8,
+        "rpg": 1.1,
+        "mpg": 9.1,
+        "fg_pct": 45.8,
+        "games": 47
+      }
+    },
+    "Malevy Leons": {
+      "team": "Golden State Warriors",
+      "impact": 31,
+      "position": "G/F",
+      "stats": {
+        "ppg": 0.3,
+        "apg": 0.2,
+        "rpg": 0.5,
+        "mpg": 3.5,
+        "fg_pct": 0,
+        "games": 6
+      }
+    },
+    "Malik Monk": {
+      "team": "Sacramento Kings",
+      "impact": 64,
+      "position": "G/F",
+      "stats": {
+        "ppg": 17.2,
+        "apg": 5.6,
+        "rpg": 3.8,
+        "mpg": 31.6,
+        "fg_pct": 43.9,
+        "games": 65
+      }
+    },
+    "MarJon Beauchamp": {
+      "team": "Philadelphia 76ers",
+      "impact": 39,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.3,
+        "apg": 0.3,
+        "rpg": 1.3,
+        "mpg": 4.5,
+        "fg_pct": 41.5,
+        "games": 35
+      }
+    },
+    "Marcus Sasser": {
+      "team": "Detroit Pistons",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.6,
+        "apg": 2.3,
+        "rpg": 1.2,
+        "mpg": 14.2,
+        "fg_pct": 46.3,
+        "games": 57
+      }
+    },
+    "Marcus Smart": {
+      "team": "Los Angeles Lakers",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.0,
+        "apg": 3.2,
+        "rpg": 2.1,
+        "mpg": 20.0,
+        "fg_pct": 39.3,
+        "games": 34
+      }
+    },
+    "Mark Williams": {
+      "team": "Phoenix Suns",
+      "impact": 63,
+      "position": "C/F",
+      "stats": {
+        "ppg": 15.3,
+        "apg": 2.5,
+        "rpg": 10.2,
+        "mpg": 26.6,
+        "fg_pct": 60.4,
+        "games": 44
+      }
+    },
+    "Marvin Bagley III": {
+      "team": "Washington Wizards",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.4,
+        "apg": 0.4,
+        "rpg": 2.7,
+        "mpg": 8.6,
+        "fg_pct": 51.9,
+        "games": 31
+      }
+    },
+    "Mason Plumlee": {
+      "team": "Charlotte Hornets",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.5,
+        "apg": 1.8,
+        "rpg": 6.1,
+        "mpg": 17.6,
+        "fg_pct": 61.9,
+        "games": 74
+      }
+    },
+    "Matas Buzelis": {
+      "team": "Chicago Bulls",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.6,
+        "apg": 1.0,
+        "rpg": 3.5,
+        "mpg": 18.9,
+        "fg_pct": 45.4,
+        "games": 80
+      }
+    },
+    "Matisse Thybulle": {
+      "team": "Portland Trail Blazers",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.5,
+        "apg": 1.9,
+        "rpg": 3.5,
+        "mpg": 20.8,
+        "fg_pct": 47.7,
+        "games": 15
+      }
+    },
+    "Max Christie": {
+      "team": "Dallas Mavericks",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.6,
+        "apg": 1.9,
+        "rpg": 3.3,
+        "mpg": 27.3,
+        "fg_pct": 42.7,
+        "games": 78
+      }
+    },
+    "Max Strus": {
+      "team": "Cleveland Cavaliers",
+      "impact": 56,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.4,
+        "apg": 3.2,
+        "rpg": 4.3,
+        "mpg": 25.5,
+        "fg_pct": 44.2,
+        "games": 50
+      }
+    },
+    "Maxi Kleber": {
+      "team": "Los Angeles Lakers",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.0,
+        "apg": 1.3,
+        "rpg": 2.8,
+        "mpg": 18.7,
+        "fg_pct": 38.5,
+        "games": 34
+      }
+    },
+    "Micah Potter": {
+      "team": "Indiana Pacers",
+      "impact": 46,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.3,
+        "apg": 0.8,
+        "rpg": 4.3,
+        "mpg": 18.6,
+        "fg_pct": 42.2,
+        "games": 38
+      }
+    },
+    "Michael Porter Jr.": {
+      "team": "Brooklyn Nets",
+      "impact": 65,
+      "position": "F",
+      "stats": {
+        "ppg": 18.2,
+        "apg": 2.1,
+        "rpg": 7.0,
+        "mpg": 33.7,
+        "fg_pct": 50.4,
+        "games": 77
+      }
+    },
+    "Mikal Bridges": {
+      "team": "New York Knicks",
+      "impact": 66,
+      "position": "G/F",
+      "stats": {
+        "ppg": 17.6,
+        "apg": 3.7,
+        "rpg": 3.2,
+        "mpg": 37.0,
+        "fg_pct": 50.0,
+        "games": 82
+      }
+    },
+    "Mike Conley": {
+      "team": "Minnesota Timberwolves",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.2,
+        "apg": 4.5,
+        "rpg": 2.6,
+        "mpg": 24.7,
+        "fg_pct": 40.0,
+        "games": 71
+      }
+    },
+    "Miles Bridges": {
+      "team": "Charlotte Hornets",
+      "impact": 64,
+      "position": "F",
+      "stats": {
+        "ppg": 20.3,
+        "apg": 3.9,
+        "rpg": 7.5,
+        "mpg": 31.7,
+        "fg_pct": 43.1,
+        "games": 64
+      }
+    },
+    "Miles McBride": {
+      "team": "New York Knicks",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.5,
+        "apg": 2.9,
+        "rpg": 2.5,
+        "mpg": 24.9,
+        "fg_pct": 40.6,
+        "games": 64
+      }
+    },
+    "Mitchell Robinson": {
+      "team": "New York Knicks",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.1,
+        "apg": 0.8,
+        "rpg": 5.9,
+        "mpg": 17.1,
+        "fg_pct": 66.1,
+        "games": 17
+      }
+    },
+    "Moritz Wagner": {
+      "team": "Orlando Magic",
+      "impact": 57,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.9,
+        "apg": 1.4,
+        "rpg": 4.9,
+        "mpg": 18.8,
+        "fg_pct": 56.2,
+        "games": 30
+      }
+    },
+    "Moses Moody": {
+      "team": "Golden State Warriors",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.8,
+        "apg": 1.3,
+        "rpg": 2.6,
+        "mpg": 22.3,
+        "fg_pct": 43.3,
+        "games": 74
+      }
+    },
+    "Mouhamed Gueye": {
+      "team": "Atlanta Hawks",
+      "impact": 49,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.0,
+        "apg": 0.8,
+        "rpg": 4.2,
+        "mpg": 16.1,
+        "fg_pct": 42.1,
+        "games": 33
+      }
+    },
+    "Moussa Diabat\u00e9": {
+      "team": "Charlotte Hornets",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.7,
+        "apg": 0.8,
+        "rpg": 6.2,
+        "mpg": 17.5,
+        "fg_pct": 59.6,
+        "games": 71
+      }
+    },
+    "Myles Turner": {
+      "team": "Milwaukee Bucks",
+      "impact": 64,
+      "position": "F",
+      "stats": {
+        "ppg": 15.6,
+        "apg": 1.5,
+        "rpg": 6.5,
+        "mpg": 30.2,
+        "fg_pct": 48.1,
+        "games": 72
+      }
+    },
+    "N'Faly Dante": {
+      "team": "Atlanta Hawks",
+      "impact": 34,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.0,
+        "apg": 0.5,
+        "rpg": 5.3,
+        "mpg": 12.7,
+        "fg_pct": 76.9,
+        "games": 4
+      }
+    },
+    "Nae'Qwan Tomlin": {
+      "team": "Cleveland Cavaliers",
+      "impact": 34,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.2,
+        "apg": 0.4,
+        "rpg": 4.2,
+        "mpg": 12.7,
+        "fg_pct": 40.6,
+        "games": 5
+      }
+    },
+    "Naji Marshall": {
+      "team": "Dallas Mavericks",
+      "impact": 59,
+      "position": "G/F",
+      "stats": {
+        "ppg": 13.2,
+        "apg": 3.0,
+        "rpg": 4.8,
+        "mpg": 27.8,
+        "fg_pct": 50.8,
+        "games": 69
+      }
+    },
+    "Naz Reid": {
+      "team": "Minnesota Timberwolves",
+      "impact": 61,
+      "position": "G/F",
+      "stats": {
+        "ppg": 14.2,
+        "apg": 2.3,
+        "rpg": 6.0,
+        "mpg": 27.5,
+        "fg_pct": 46.2,
+        "games": 80
+      }
+    },
+    "Neemias Queta": {
+      "team": "Boston Celtics",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.0,
+        "apg": 0.7,
+        "rpg": 3.8,
+        "mpg": 13.9,
+        "fg_pct": 65.0,
+        "games": 62
+      }
+    },
+    "Nic Claxton": {
+      "team": "Brooklyn Nets",
+      "impact": 59,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.3,
+        "apg": 2.2,
+        "rpg": 7.4,
+        "mpg": 26.9,
+        "fg_pct": 56.3,
+        "games": 70
+      }
+    },
+    "Nick Richards": {
+      "team": "Phoenix Suns",
+      "impact": 56,
+      "position": "C/F",
+      "stats": {
+        "ppg": 9.3,
+        "apg": 0.9,
+        "rpg": 8.2,
+        "mpg": 22.0,
+        "fg_pct": 59.1,
+        "games": 57
+      }
+    },
+    "Nick Smith Jr.": {
+      "team": "Los Angeles Lakers",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.9,
+        "apg": 2.4,
+        "rpg": 2.1,
+        "mpg": 22.8,
+        "fg_pct": 39.1,
+        "games": 60
+      }
+    },
+    "Nickeil Alexander-Walker": {
+      "team": "Atlanta Hawks",
+      "impact": 55,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.4,
+        "apg": 2.7,
+        "rpg": 3.2,
+        "mpg": 25.3,
+        "fg_pct": 43.8,
+        "games": 82
+      }
+    },
+    "Nicolas Batum": {
+      "team": "Los Angeles Clippers",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.0,
+        "apg": 1.1,
+        "rpg": 2.8,
+        "mpg": 17.5,
+        "fg_pct": 43.7,
+        "games": 78
+      }
+    },
+    "Nikola Joki\u0107": {
+      "team": "Denver Nuggets",
+      "impact": 88,
+      "position": "C/F",
+      "stats": {
+        "ppg": 29.6,
+        "apg": 10.2,
+        "rpg": 12.7,
+        "mpg": 36.7,
+        "fg_pct": 57.6,
+        "games": 70
+      }
+    },
+    "Nikola Jovi\u0107": {
+      "team": "Miami Heat",
+      "impact": 55,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.7,
+        "apg": 2.8,
+        "rpg": 3.9,
+        "mpg": 25.1,
+        "fg_pct": 45.6,
+        "games": 46
+      }
+    },
+    "Nikola Vu\u010devi\u0107": {
+      "team": "Chicago Bulls",
+      "impact": 68,
+      "position": "C/F",
+      "stats": {
+        "ppg": 18.5,
+        "apg": 3.5,
+        "rpg": 10.1,
+        "mpg": 31.2,
+        "fg_pct": 53.0,
+        "games": 73
+      }
+    },
+    "Noah Clowney": {
+      "team": "Brooklyn Nets",
+      "impact": 47,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.1,
+        "apg": 0.9,
+        "rpg": 3.9,
+        "mpg": 22.7,
+        "fg_pct": 35.8,
+        "games": 46
+      }
+    },
+    "Norman Powell": {
+      "team": "Miami Heat",
+      "impact": 66,
+      "position": "G/F",
+      "stats": {
+        "ppg": 21.8,
+        "apg": 2.1,
+        "rpg": 3.2,
+        "mpg": 32.6,
+        "fg_pct": 48.4,
+        "games": 60
+      }
+    },
+    "OG Anunoby": {
+      "team": "New York Knicks",
+      "impact": 66,
+      "position": "G/F",
+      "stats": {
+        "ppg": 18.0,
+        "apg": 2.2,
+        "rpg": 4.8,
+        "mpg": 36.6,
+        "fg_pct": 47.6,
+        "games": 74
+      }
+    },
+    "Obi Toppin": {
+      "team": "Indiana Pacers",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.5,
+        "apg": 1.6,
+        "rpg": 4.0,
+        "mpg": 19.6,
+        "fg_pct": 52.9,
+        "games": 79
+      }
+    },
+    "Ochai Agbaji": {
+      "team": "Toronto Raptors",
+      "impact": 55,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.4,
+        "apg": 1.5,
+        "rpg": 3.8,
+        "mpg": 27.2,
+        "fg_pct": 49.8,
+        "games": 64
+      }
+    },
+    "Olivier-Maxence Prosper": {
+      "team": "Memphis Grizzlies",
+      "impact": 42,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.9,
+        "apg": 0.8,
+        "rpg": 2.4,
+        "mpg": 11.2,
+        "fg_pct": 40.2,
+        "games": 52
+      }
+    },
+    "Onyeka Okongwu": {
+      "team": "Atlanta Hawks",
+      "impact": 64,
+      "position": "C/F",
+      "stats": {
+        "ppg": 13.4,
+        "apg": 2.3,
+        "rpg": 8.9,
+        "mpg": 27.9,
+        "fg_pct": 56.7,
+        "games": 74
+      }
+    },
+    "Orlando Robinson": {
+      "team": "Orlando Magic",
+      "impact": 49,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.9,
+        "apg": 1.8,
+        "rpg": 5.0,
+        "mpg": 17.5,
+        "fg_pct": 44.4,
+        "games": 44
+      }
+    },
+    "Oscar Tshiebwe": {
+      "team": "Utah Jazz",
+      "impact": 47,
+      "position": "C/F",
+      "stats": {
+        "ppg": 7.6,
+        "apg": 0.6,
+        "rpg": 8.7,
+        "mpg": 18.2,
+        "fg_pct": 60.0,
+        "games": 14
+      }
+    },
+    "Oso Ighodaro": {
+      "team": "Phoenix Suns",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.2,
+        "apg": 1.2,
+        "rpg": 3.6,
+        "mpg": 17.1,
+        "fg_pct": 60.4,
+        "games": 61
+      }
+    },
+    "Ousmane Dieng": {
+      "team": "Oklahoma City Thunder",
+      "impact": 44,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.8,
+        "apg": 0.8,
+        "rpg": 2.2,
+        "mpg": 10.9,
+        "fg_pct": 43.2,
+        "games": 37
+      }
+    },
+    "P.J. Washington": {
+      "team": "Dallas Mavericks",
+      "impact": 63,
+      "position": "G/F",
+      "stats": {
+        "ppg": 14.7,
+        "apg": 2.3,
+        "rpg": 7.8,
+        "mpg": 32.2,
+        "fg_pct": 45.3,
+        "games": 57
+      }
+    },
+    "PJ Hall": {
+      "team": "Charlotte Hornets",
+      "impact": 41,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.7,
+        "apg": 0.2,
+        "rpg": 1.2,
+        "mpg": 3.5,
+        "fg_pct": 58.3,
+        "games": 19
+      }
+    },
+    "Pac\u00f4me Dadiet": {
+      "team": "New York Knicks",
+      "impact": 36,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.7,
+        "apg": 0.3,
+        "rpg": 1.0,
+        "mpg": 6.2,
+        "fg_pct": 32.3,
+        "games": 18
+      }
+    },
+    "Paolo Banchero": {
+      "team": "Orlando Magic",
+      "impact": 70,
+      "position": "F",
+      "stats": {
+        "ppg": 25.9,
+        "apg": 4.8,
+        "rpg": 7.5,
+        "mpg": 34.4,
+        "fg_pct": 45.2,
+        "games": 46
+      }
+    },
+    "Pascal Siakam": {
+      "team": "Indiana Pacers",
+      "impact": 68,
+      "position": "F",
+      "stats": {
+        "ppg": 20.2,
+        "apg": 3.4,
+        "rpg": 6.9,
+        "mpg": 32.7,
+        "fg_pct": 51.9,
+        "games": 78
+      }
+    },
+    "Pat Connaughton": {
+      "team": "Charlotte Hornets",
+      "impact": 47,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.3,
+        "apg": 1.7,
+        "rpg": 2.7,
+        "mpg": 14.7,
+        "fg_pct": 46.9,
+        "games": 41
+      }
+    },
+    "Pat Spencer": {
+      "team": "Golden State Warriors",
+      "impact": 40,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.5,
+        "apg": 1.2,
+        "rpg": 1.2,
+        "mpg": 6.4,
+        "fg_pct": 40.6,
+        "games": 39
+      }
+    },
+    "Patrick Williams": {
+      "team": "Chicago Bulls",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.0,
+        "apg": 2.0,
+        "rpg": 3.8,
+        "mpg": 25.0,
+        "fg_pct": 39.7,
+        "games": 63
+      }
+    },
+    "Paul George": {
+      "team": "Philadelphia 76ers",
+      "impact": 63,
+      "position": "F",
+      "stats": {
+        "ppg": 16.2,
+        "apg": 4.3,
+        "rpg": 5.3,
+        "mpg": 32.5,
+        "fg_pct": 43.0,
+        "games": 41
+      }
+    },
+    "Paul Reed": {
+      "team": "Detroit Pistons",
+      "impact": 47,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.1,
+        "apg": 1.0,
+        "rpg": 2.7,
+        "mpg": 9.7,
+        "fg_pct": 50.7,
+        "games": 45
+      }
+    },
+    "Payton Pritchard": {
+      "team": "Boston Celtics",
+      "impact": 61,
+      "position": "G/F",
+      "stats": {
+        "ppg": 14.3,
+        "apg": 3.5,
+        "rpg": 3.8,
+        "mpg": 28.4,
+        "fg_pct": 47.2,
+        "games": 80
+      }
+    },
+    "Pelle Larsson": {
+      "team": "Miami Heat",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.6,
+        "apg": 1.2,
+        "rpg": 1.7,
+        "mpg": 14.2,
+        "fg_pct": 43.8,
+        "games": 55
+      }
+    },
+    "Pete Nance": {
+      "team": "Milwaukee Bucks",
+      "impact": 38,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.9,
+        "apg": 0.8,
+        "rpg": 1.6,
+        "mpg": 10.6,
+        "fg_pct": 43.8,
+        "games": 13
+      }
+    },
+    "Peyton Watson": {
+      "team": "Denver Nuggets",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.1,
+        "apg": 1.4,
+        "rpg": 3.4,
+        "mpg": 24.3,
+        "fg_pct": 47.7,
+        "games": 68
+      }
+    },
+    "Precious Achiuwa": {
+      "team": "Sacramento Kings",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.6,
+        "apg": 1.0,
+        "rpg": 5.6,
+        "mpg": 20.5,
+        "fg_pct": 50.2,
+        "games": 57
+      }
+    },
+    "Quentin Grimes": {
+      "team": "Philadelphia 76ers",
+      "impact": 58,
+      "position": "G/F",
+      "stats": {
+        "ppg": 14.6,
+        "apg": 3.0,
+        "rpg": 4.3,
+        "mpg": 26.8,
+        "fg_pct": 46.7,
+        "games": 75
+      }
+    },
+    "Quenton Jackson": {
+      "team": "Indiana Pacers",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.8,
+        "apg": 1.9,
+        "rpg": 1.6,
+        "mpg": 13.6,
+        "fg_pct": 47.5,
+        "games": 28
+      }
+    },
+    "Quinten Post": {
+      "team": "Golden State Warriors",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.1,
+        "apg": 1.3,
+        "rpg": 3.5,
+        "mpg": 16.3,
+        "fg_pct": 44.9,
+        "games": 42
+      }
+    },
+    "RJ Barrett": {
+      "team": "Toronto Raptors",
+      "impact": 66,
+      "position": "F",
+      "stats": {
+        "ppg": 21.1,
+        "apg": 5.4,
+        "rpg": 6.3,
+        "mpg": 32.2,
+        "fg_pct": 46.8,
+        "games": 58
+      }
+    },
+    "RayJ Dennis": {
+      "team": "Atlanta Hawks",
+      "impact": 36,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.7,
+        "apg": 1.3,
+        "rpg": 1.1,
+        "mpg": 6.4,
+        "fg_pct": 33.3,
+        "games": 11
+      }
+    },
+    "Rayan Rupert": {
+      "team": "Portland Trail Blazers",
+      "impact": 40,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.0,
+        "apg": 0.5,
+        "rpg": 1.3,
+        "mpg": 8.8,
+        "fg_pct": 40.8,
+        "games": 52
+      }
+    },
+    "Reed Sheppard": {
+      "team": "Houston Rockets",
+      "impact": 42,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.4,
+        "apg": 1.4,
+        "rpg": 1.5,
+        "mpg": 12.6,
+        "fg_pct": 35.1,
+        "games": 52
+      }
+    },
+    "Rob Dillingham": {
+      "team": "Minnesota Timberwolves",
+      "impact": 44,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.5,
+        "apg": 2.0,
+        "rpg": 1.0,
+        "mpg": 10.5,
+        "fg_pct": 44.1,
+        "games": 49
+      }
+    },
+    "Robert Williams III": {
+      "team": "Portland Trail Blazers",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.8,
+        "apg": 1.1,
+        "rpg": 5.9,
+        "mpg": 17.6,
+        "fg_pct": 64.1,
+        "games": 20
+      }
+    },
+    "Ron Harper Jr.": {
+      "team": "Boston Celtics",
+      "impact": 31,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.0,
+        "apg": 2.0,
+        "rpg": 7.0,
+        "mpg": 17.0,
+        "fg_pct": 12.5,
+        "games": 1
+      }
+    },
+    "Ronald Holland II": {
+      "team": "Detroit Pistons",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.4,
+        "apg": 1.0,
+        "rpg": 2.7,
+        "mpg": 15.6,
+        "fg_pct": 47.4,
+        "games": 81
+      }
+    },
+    "Royce O'Neale": {
+      "team": "Phoenix Suns",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.1,
+        "apg": 2.2,
+        "rpg": 4.7,
+        "mpg": 24.5,
+        "fg_pct": 42.3,
+        "games": 75
+      }
+    },
+    "Rudy Gobert": {
+      "team": "Minnesota Timberwolves",
+      "impact": 67,
+      "position": "C/F",
+      "stats": {
+        "ppg": 12.0,
+        "apg": 1.8,
+        "rpg": 10.9,
+        "mpg": 33.2,
+        "fg_pct": 66.9,
+        "games": 72
+      }
+    },
+    "Rui Hachimura": {
+      "team": "Los Angeles Lakers",
+      "impact": 60,
+      "position": "G/F",
+      "stats": {
+        "ppg": 13.1,
+        "apg": 1.4,
+        "rpg": 5.0,
+        "mpg": 31.7,
+        "fg_pct": 50.9,
+        "games": 59
+      }
+    },
+    "Russell Westbrook": {
+      "team": "Sacramento Kings",
+      "impact": 62,
+      "position": "G",
+      "stats": {
+        "ppg": 13.3,
+        "apg": 6.1,
+        "rpg": 4.9,
+        "mpg": 27.9,
+        "fg_pct": 44.9,
+        "games": 75
+      }
+    },
+    "Ryan Dunn": {
+      "team": "Phoenix Suns",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.9,
+        "apg": 0.8,
+        "rpg": 3.6,
+        "mpg": 19.1,
+        "fg_pct": 43.0,
+        "games": 74
+      }
+    },
+    "Ryan Rollins": {
+      "team": "Milwaukee Bucks",
+      "impact": 49,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.2,
+        "apg": 1.9,
+        "rpg": 1.9,
+        "mpg": 14.6,
+        "fg_pct": 48.7,
+        "games": 56
+      }
+    },
+    "Sam Hauser": {
+      "team": "Boston Celtics",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.5,
+        "apg": 0.9,
+        "rpg": 3.2,
+        "mpg": 21.7,
+        "fg_pct": 45.1,
+        "games": 71
+      }
+    },
+    "Sam Merrill": {
+      "team": "Cleveland Cavaliers",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.2,
+        "apg": 1.5,
+        "rpg": 2.2,
+        "mpg": 19.7,
+        "fg_pct": 40.6,
+        "games": 71
+      }
+    },
+    "Sandro Mamukelashvili": {
+      "team": "Toronto Raptors",
+      "impact": 47,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.3,
+        "apg": 0.8,
+        "rpg": 3.1,
+        "mpg": 11.2,
+        "fg_pct": 50.2,
+        "games": 61
+      }
+    },
+    "Santi Aldama": {
+      "team": "Memphis Grizzlies",
+      "impact": 60,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.5,
+        "apg": 2.9,
+        "rpg": 6.4,
+        "mpg": 25.5,
+        "fg_pct": 48.3,
+        "games": 65
+      }
+    },
+    "Scoot Henderson": {
+      "team": "Portland Trail Blazers",
+      "impact": 57,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.7,
+        "apg": 5.1,
+        "rpg": 3.0,
+        "mpg": 26.7,
+        "fg_pct": 41.9,
+        "games": 66
+      }
+    },
+    "Scottie Barnes": {
+      "team": "Toronto Raptors",
+      "impact": 68,
+      "position": "F",
+      "stats": {
+        "ppg": 19.3,
+        "apg": 5.8,
+        "rpg": 7.7,
+        "mpg": 32.8,
+        "fg_pct": 44.6,
+        "games": 65
+      }
+    },
+    "Scotty Pippen Jr.": {
+      "team": "Memphis Grizzlies",
+      "impact": 56,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.9,
+        "apg": 4.4,
+        "rpg": 3.3,
+        "mpg": 21.3,
+        "fg_pct": 48.0,
+        "games": 79
+      }
+    },
+    "Seth Curry": {
+      "team": "Golden State Warriors",
+      "impact": 46,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.5,
+        "apg": 0.9,
+        "rpg": 1.7,
+        "mpg": 15.6,
+        "fg_pct": 47.8,
+        "games": 68
+      }
+    },
+    "Shaedon Sharpe": {
+      "team": "Portland Trail Blazers",
+      "impact": 61,
+      "position": "G/F",
+      "stats": {
+        "ppg": 18.5,
+        "apg": 2.8,
+        "rpg": 4.5,
+        "mpg": 31.3,
+        "fg_pct": 45.2,
+        "games": 72
+      }
+    },
+    "Shai Gilgeous-Alexander": {
+      "team": "Oklahoma City Thunder",
+      "impact": 81,
+      "position": "G",
+      "stats": {
+        "ppg": 32.7,
+        "apg": 6.4,
+        "rpg": 5.0,
+        "mpg": 34.2,
+        "fg_pct": 51.9,
+        "games": 76
+      }
+    },
+    "Sidy Cissoko": {
+      "team": "Portland Trail Blazers",
+      "impact": 39,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.5,
+        "apg": 0.7,
+        "rpg": 1.0,
+        "mpg": 5.2,
+        "fg_pct": 43.3,
+        "games": 22
+      }
+    },
+    "Simone Fontecchio": {
+      "team": "Miami Heat",
+      "impact": 46,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.9,
+        "apg": 0.9,
+        "rpg": 2.9,
+        "mpg": 16.5,
+        "fg_pct": 40.2,
+        "games": 75
+      }
+    },
+    "Skal Labissiere": {
+      "team": "Washington Wizards",
+      "impact": 32,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.3,
+        "apg": 0.3,
+        "rpg": 0.8,
+        "mpg": 3.0,
+        "fg_pct": 50.0,
+        "games": 4
+      }
+    },
+    "Spencer Jones": {
+      "team": "Denver Nuggets",
+      "impact": 37,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.3,
+        "apg": 0.3,
+        "rpg": 0.9,
+        "mpg": 6.2,
+        "fg_pct": 32.4,
+        "games": 20
+      }
+    },
+    "Stanley Umude": {
+      "team": "San Antonio Spurs",
+      "impact": 36,
+      "position": "G/F",
+      "stats": {
+        "ppg": 0.7,
+        "apg": 0.2,
+        "rpg": 0.8,
+        "mpg": 3.9,
+        "fg_pct": 19.2,
+        "games": 22
+      }
+    },
+    "Stephen Curry": {
+      "team": "Golden State Warriors",
+      "impact": 70,
+      "position": "G/F",
+      "stats": {
+        "ppg": 24.5,
+        "apg": 6.0,
+        "rpg": 4.4,
+        "mpg": 32.2,
+        "fg_pct": 44.8,
+        "games": 70
+      }
+    },
+    "Stephon Castle": {
+      "team": "San Antonio Spurs",
+      "impact": 57,
+      "position": "G/F",
+      "stats": {
+        "ppg": 14.7,
+        "apg": 4.1,
+        "rpg": 3.7,
+        "mpg": 26.7,
+        "fg_pct": 42.8,
+        "games": 81
+      }
+    },
+    "Steven Adams": {
+      "team": "Houston Rockets",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.9,
+        "apg": 1.1,
+        "rpg": 5.6,
+        "mpg": 13.7,
+        "fg_pct": 54.5,
+        "games": 58
+      }
+    },
+    "Svi Mykhailiuk": {
+      "team": "Utah Jazz",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.8,
+        "apg": 2.0,
+        "rpg": 2.4,
+        "mpg": 20.0,
+        "fg_pct": 39.1,
+        "games": 38
+      }
+    },
+    "T.J. McConnell": {
+      "team": "Indiana Pacers",
+      "impact": 55,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.1,
+        "apg": 4.4,
+        "rpg": 2.4,
+        "mpg": 17.9,
+        "fg_pct": 51.9,
+        "games": 79
+      }
+    },
+    "Tari Eason": {
+      "team": "Houston Rockets",
+      "impact": 60,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.0,
+        "apg": 1.5,
+        "rpg": 6.4,
+        "mpg": 24.9,
+        "fg_pct": 48.7,
+        "games": 57
+      }
+    },
+    "Taurean Prince": {
+      "team": "Milwaukee Bucks",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.2,
+        "apg": 1.9,
+        "rpg": 3.6,
+        "mpg": 27.1,
+        "fg_pct": 45.7,
+        "games": 80
+      }
+    },
+    "Taylor Hendricks": {
+      "team": "Utah Jazz",
+      "impact": 33,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.7,
+        "apg": 0.7,
+        "rpg": 5.0,
+        "mpg": 24.8,
+        "fg_pct": 22.2,
+        "games": 3
+      }
+    },
+    "Terance Mann": {
+      "team": "Brooklyn Nets",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.7,
+        "apg": 1.8,
+        "rpg": 3.0,
+        "mpg": 21.1,
+        "fg_pct": 49.6,
+        "games": 67
+      }
+    },
+    "Terrence Shannon Jr.": {
+      "team": "Minnesota Timberwolves",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.3,
+        "apg": 1.0,
+        "rpg": 1.5,
+        "mpg": 10.6,
+        "fg_pct": 48.2,
+        "games": 32
+      }
+    },
+    "Terry Rozier": {
+      "team": "Miami Heat",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.6,
+        "apg": 2.6,
+        "rpg": 3.7,
+        "mpg": 25.9,
+        "fg_pct": 39.1,
+        "games": 64
+      }
+    },
+    "Thomas Bryant": {
+      "team": "Cleveland Cavaliers",
+      "impact": 49,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.5,
+        "apg": 0.8,
+        "rpg": 3.8,
+        "mpg": 14.6,
+        "fg_pct": 50.8,
+        "games": 66
+      }
+    },
+    "Tidjane Sala\u00fcn": {
+      "team": "Charlotte Hornets",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 5.9,
+        "apg": 1.2,
+        "rpg": 4.7,
+        "mpg": 20.7,
+        "fg_pct": 33.0,
+        "games": 60
+      }
+    },
+    "Tim Hardaway Jr.": {
+      "team": "Denver Nuggets",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 11.0,
+        "apg": 1.6,
+        "rpg": 2.4,
+        "mpg": 28.0,
+        "fg_pct": 40.6,
+        "games": 77
+      }
+    },
+    "Tobias Harris": {
+      "team": "Detroit Pistons",
+      "impact": 62,
+      "position": "G/F",
+      "stats": {
+        "ppg": 13.7,
+        "apg": 2.2,
+        "rpg": 5.9,
+        "mpg": 31.6,
+        "fg_pct": 47.7,
+        "games": 73
+      }
+    },
+    "Tolu Smith": {
+      "team": "Detroit Pistons",
+      "impact": 31,
+      "position": "G/F",
+      "stats": {
+        "ppg": 14.0,
+        "apg": 0,
+        "rpg": 8.0,
+        "mpg": 22.4,
+        "fg_pct": 66.7,
+        "games": 1
+      }
+    },
+    "Toumani Camara": {
+      "team": "Portland Trail Blazers",
+      "impact": 59,
+      "position": "G/F",
+      "stats": {
+        "ppg": 11.3,
+        "apg": 2.2,
+        "rpg": 5.8,
+        "mpg": 32.7,
+        "fg_pct": 45.8,
+        "games": 78
+      }
+    },
+    "Trae Young": {
+      "team": "Washington Wizards",
+      "impact": 72,
+      "position": "G",
+      "stats": {
+        "ppg": 24.2,
+        "apg": 11.6,
+        "rpg": 3.1,
+        "mpg": 36.0,
+        "fg_pct": 41.1,
+        "games": 76
+      }
+    },
+    "Trayce Jackson-Davis": {
+      "team": "Golden State Warriors",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.6,
+        "apg": 1.7,
+        "rpg": 5.0,
+        "mpg": 15.6,
+        "fg_pct": 57.6,
+        "games": 62
+      }
+    },
+    "Tre Jones": {
+      "team": "Chicago Bulls",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.2,
+        "apg": 4.2,
+        "rpg": 2.5,
+        "mpg": 19.7,
+        "fg_pct": 53.8,
+        "games": 46
+      }
+    },
+    "Tre Mann": {
+      "team": "Charlotte Hornets",
+      "impact": 46,
+      "position": "G/F",
+      "stats": {
+        "ppg": 14.1,
+        "apg": 3.0,
+        "rpg": 2.9,
+        "mpg": 24.5,
+        "fg_pct": 43.5,
+        "games": 13
+      }
+    },
+    "Trendon Watford": {
+      "team": "Philadelphia 76ers",
+      "impact": 53,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.2,
+        "apg": 2.6,
+        "rpg": 3.6,
+        "mpg": 20.7,
+        "fg_pct": 46.9,
+        "games": 44
+      }
+    },
+    "Trey Alexander": {
+      "team": "New Orleans Pelicans",
+      "impact": 36,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.3,
+        "apg": 0.5,
+        "rpg": 0.5,
+        "mpg": 4.9,
+        "fg_pct": 31.7,
+        "games": 24
+      }
+    },
+    "Trey Jemison III": {
+      "team": "New York Knicks",
+      "impact": 46,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.5,
+        "apg": 0.4,
+        "rpg": 2.8,
+        "mpg": 10.3,
+        "fg_pct": 55.4,
+        "games": 38
+      }
+    },
+    "Trey Murphy III": {
+      "team": "New Orleans Pelicans",
+      "impact": 64,
+      "position": "F",
+      "stats": {
+        "ppg": 21.2,
+        "apg": 3.5,
+        "rpg": 5.1,
+        "mpg": 35.0,
+        "fg_pct": 45.4,
+        "games": 53
+      }
+    },
+    "Tristan Vukcevic": {
+      "team": "Washington Wizards",
+      "impact": 50,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.4,
+        "apg": 1.1,
+        "rpg": 3.7,
+        "mpg": 14.6,
+        "fg_pct": 49.6,
+        "games": 35
+      }
+    },
+    "Tristan da Silva": {
+      "team": "Orlando Magic",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.2,
+        "apg": 1.5,
+        "rpg": 3.3,
+        "mpg": 22.0,
+        "fg_pct": 41.2,
+        "games": 74
+      }
+    },
+    "Tristen Newton": {
+      "team": "Houston Rockets",
+      "impact": 32,
+      "position": "G/F",
+      "stats": {
+        "ppg": 0.4,
+        "apg": 0.3,
+        "rpg": 0.5,
+        "mpg": 2.0,
+        "fg_pct": 12.5,
+        "games": 8
+      }
+    },
+    "Ty Jerome": {
+      "team": "Memphis Grizzlies",
+      "impact": 58,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.5,
+        "apg": 3.4,
+        "rpg": 2.5,
+        "mpg": 19.9,
+        "fg_pct": 51.6,
+        "games": 70
+      }
+    },
+    "TyTy Washington Jr.": {
+      "team": "Los Angeles Clippers",
+      "impact": 37,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.2,
+        "apg": 1.0,
+        "rpg": 0.8,
+        "mpg": 7.4,
+        "fg_pct": 31.1,
+        "games": 16
+      }
+    },
+    "Tyler Herro": {
+      "team": "Miami Heat",
+      "impact": 70,
+      "position": "F",
+      "stats": {
+        "ppg": 23.9,
+        "apg": 5.5,
+        "rpg": 5.2,
+        "mpg": 35.4,
+        "fg_pct": 47.2,
+        "games": 77
+      }
+    },
+    "Tyler Kolek": {
+      "team": "New York Knicks",
+      "impact": 39,
+      "position": "G/F",
+      "stats": {
+        "ppg": 2.0,
+        "apg": 1.7,
+        "rpg": 0.7,
+        "mpg": 7.2,
+        "fg_pct": 32.9,
+        "games": 41
+      }
+    },
+    "Tyrese Haliburton": {
+      "team": "Indiana Pacers",
+      "impact": 70,
+      "position": "G",
+      "stats": {
+        "ppg": 18.6,
+        "apg": 9.2,
+        "rpg": 3.5,
+        "mpg": 33.6,
+        "fg_pct": 47.3,
+        "games": 73
+      }
+    },
+    "Tyrese Martin": {
+      "team": "Brooklyn Nets",
+      "impact": 49,
+      "position": "G/F",
+      "stats": {
+        "ppg": 8.7,
+        "apg": 2.0,
+        "rpg": 3.7,
+        "mpg": 21.9,
+        "fg_pct": 40.6,
+        "games": 60
+      }
+    },
+    "Tyrese Maxey": {
+      "team": "Philadelphia 76ers",
+      "impact": 70,
+      "position": "G",
+      "stats": {
+        "ppg": 26.3,
+        "apg": 6.1,
+        "rpg": 3.3,
+        "mpg": 37.7,
+        "fg_pct": 43.7,
+        "games": 52
+      }
+    },
+    "Tyson Etienne": {
+      "team": "Brooklyn Nets",
+      "impact": 35,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.9,
+        "apg": 1.7,
+        "rpg": 1.3,
+        "mpg": 21.6,
+        "fg_pct": 32.7,
+        "games": 7
+      }
+    },
+    "Tyus Jones": {
+      "team": "Orlando Magic",
+      "impact": 56,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.2,
+        "apg": 5.3,
+        "rpg": 2.4,
+        "mpg": 26.8,
+        "fg_pct": 44.8,
+        "games": 81
+      }
+    },
+    "Victor Wembanyama": {
+      "team": "San Antonio Spurs",
+      "impact": 76,
+      "position": "C/F",
+      "stats": {
+        "ppg": 24.3,
+        "apg": 3.7,
+        "rpg": 11.0,
+        "mpg": 33.2,
+        "fg_pct": 47.6,
+        "games": 46
+      }
+    },
+    "Vince Williams Jr.": {
+      "team": "Memphis Grizzlies",
+      "impact": 48,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.6,
+        "apg": 2.0,
+        "rpg": 3.6,
+        "mpg": 18.5,
+        "fg_pct": 40.1,
+        "games": 27
+      }
+    },
+    "V\u00edt Krej\u010d\u00ed": {
+      "team": "Atlanta Hawks",
+      "impact": 52,
+      "position": "G/F",
+      "stats": {
+        "ppg": 7.2,
+        "apg": 2.6,
+        "rpg": 2.7,
+        "mpg": 20.2,
+        "fg_pct": 49.7,
+        "games": 57
+      }
+    },
+    "Walker Kessler": {
+      "team": "Utah Jazz",
+      "impact": 64,
+      "position": "C/F",
+      "stats": {
+        "ppg": 11.1,
+        "apg": 1.7,
+        "rpg": 12.2,
+        "mpg": 30.0,
+        "fg_pct": 66.3,
+        "games": 58
+      }
+    },
+    "Wendell Carter Jr.": {
+      "team": "Orlando Magic",
+      "impact": 56,
+      "position": "G/F",
+      "stats": {
+        "ppg": 9.1,
+        "apg": 2.0,
+        "rpg": 7.2,
+        "mpg": 25.9,
+        "fg_pct": 46.0,
+        "games": 68
+      }
+    },
+    "Wendell Moore Jr.": {
+      "team": "Detroit Pistons",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 4.2,
+        "apg": 1.2,
+        "rpg": 2.6,
+        "mpg": 13.9,
+        "fg_pct": 46.8,
+        "games": 36
+      }
+    },
+    "Xavier Tillman": {
+      "team": "Boston Celtics",
+      "impact": 37,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.0,
+        "apg": 0.2,
+        "rpg": 1.3,
+        "mpg": 7.0,
+        "fg_pct": 24.5,
+        "games": 33
+      }
+    },
+    "Yuki Kawamura": {
+      "team": "Chicago Bulls",
+      "impact": 38,
+      "position": "G/F",
+      "stats": {
+        "ppg": 1.6,
+        "apg": 0.9,
+        "rpg": 0.5,
+        "mpg": 4.2,
+        "fg_pct": 36.7,
+        "games": 22
+      }
+    },
+    "Yves Missi": {
+      "team": "New Orleans Pelicans",
+      "impact": 57,
+      "position": "C/F",
+      "stats": {
+        "ppg": 9.1,
+        "apg": 1.4,
+        "rpg": 8.2,
+        "mpg": 26.8,
+        "fg_pct": 54.7,
+        "games": 73
+      }
+    },
+    "Zaccharie Risacher": {
+      "team": "Atlanta Hawks",
+      "impact": 54,
+      "position": "G/F",
+      "stats": {
+        "ppg": 12.6,
+        "apg": 1.2,
+        "rpg": 3.6,
+        "mpg": 24.6,
+        "fg_pct": 45.8,
+        "games": 75
+      }
+    },
+    "Zach Collins": {
+      "team": "Chicago Bulls",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 6.4,
+        "apg": 1.7,
+        "rpg": 4.5,
+        "mpg": 15.3,
+        "fg_pct": 50.7,
+        "games": 64
+      }
+    },
+    "Zach Edey": {
+      "team": "Memphis Grizzlies",
+      "impact": 59,
+      "position": "C/F",
+      "stats": {
+        "ppg": 9.2,
+        "apg": 1.0,
+        "rpg": 8.3,
+        "mpg": 21.5,
+        "fg_pct": 58.0,
+        "games": 66
+      }
+    },
+    "Zach LaVine": {
+      "team": "Sacramento Kings",
+      "impact": 68,
+      "position": "G/F",
+      "stats": {
+        "ppg": 23.3,
+        "apg": 4.2,
+        "rpg": 4.3,
+        "mpg": 35.2,
+        "fg_pct": 51.1,
+        "games": 74
+      }
+    },
+    "Zeke Nnaji": {
+      "team": "Denver Nuggets",
+      "impact": 45,
+      "position": "G/F",
+      "stats": {
+        "ppg": 3.2,
+        "apg": 0.4,
+        "rpg": 1.6,
+        "mpg": 10.7,
+        "fg_pct": 49.6,
+        "games": 57
+      }
+    },
+    "Ziaire Williams": {
+      "team": "Brooklyn Nets",
+      "impact": 51,
+      "position": "G/F",
+      "stats": {
+        "ppg": 10.0,
+        "apg": 1.3,
+        "rpg": 4.6,
+        "mpg": 24.5,
+        "fg_pct": 41.2,
+        "games": 63
+      }
+    },
+    "Zion Williamson": {
+      "team": "New Orleans Pelicans",
+      "impact": 72,
+      "position": "F",
+      "stats": {
+        "ppg": 24.6,
+        "apg": 5.3,
+        "rpg": 7.2,
+        "mpg": 28.6,
+        "fg_pct": 56.7,
+        "games": 30
+      }
+    }
+  }
+}
