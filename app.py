@@ -68,7 +68,7 @@ def display_prediction(result, team1, team2):
             }
         ))
         fig.update_layout(height=200, margin=dict(l=20, r=20, t=40, b=10), paper_bgcolor='rgba(0,0,0,0)')
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig,  width='stretch')
 
     with prob_col2:
         fig = go.Figure(go.Indicator(
@@ -86,7 +86,7 @@ def display_prediction(result, team1, team2):
             }
         ))
         fig.update_layout(height=200, margin=dict(l=20, r=20, t=40, b=10), paper_bgcolor='rgba(0,0,0,0)')
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig,  width='stretch')
 
     # Team stats comparison
     stats1 = result.get('team1_stats', {})
@@ -138,14 +138,14 @@ with st.sidebar:
     col1, col2 = st.columns(2)
 
     with col1:
-        if st.button("🤖 Initialize", use_container_width=True, key="btn_initialize"):
+        if st.button("🤖 Initialize", width='stretch', key="btn_initialize"):
             with st.spinner("Loading model..."):
                 st.session_state.agent = NBAAgent()
                 st.session_state.agent.initialize(force_retrain=False)
             st.success("Ready!")
 
     with col2:
-        if st.button("🔄 Retrain", use_container_width=True, key="btn_retrain"):
+        if st.button("🔄 Retrain",  width='stretch', key="btn_retrain"):
             # Delete old model
             if os.path.exists('models/nba_predictor.joblib'):
                 os.remove('models/nba_predictor.joblib')
@@ -169,7 +169,7 @@ with st.sidebar:
     # Roster Update
     st.header("📋 Roster Management")
 
-    if st.button("🔄 Update Rosters", use_container_width=True, key="btn_update_rosters"):
+    if st.button("🔄 Update Rosters",  width='stretch', key="btn_update_rosters"):
         with st.spinner("Fetching latest rosters from NBA API..."):
             try:
                 from src.roster_updater import update_rosters
@@ -185,7 +185,7 @@ with st.sidebar:
     st.header("🚑 Injury Management")
 
     # Auto-update button at the top
-    if st.button("🔄 Auto-Update from Basketball Ref", use_container_width=True, type="primary", key="btn_auto_update_injuries"):
+    if st.button("🔄 Auto-Update from Basketball Ref",  width='stretch', type="primary", key="btn_auto_update_injuries"):
         with st.spinner("Fetching live injury data..."):
             try:
                 if st.session_state.agent:
@@ -217,7 +217,7 @@ with st.sidebar:
             injury_status = st.selectbox("Status", ["Available", "Probable", "Questionable", "Out"], key="select_injury_status")
             injury_reason = st.text_input("Reason (optional)", key="input_injury_reason")
 
-            if st.button("Update Status", use_container_width=True, key="btn_update_injury_status"):
+            if st.button("Update Status",  width='stretch', key="btn_update_injury_status"):
                 if injury_status == "Available":
                     st.session_state.agent.clear_injury(selected_player)
                     st.success(f"✅ {selected_player} is available")
@@ -244,17 +244,17 @@ with tab1:
     date_col1, date_col2, date_col3, date_col4 = st.columns(4)
 
     with date_col1:
-        if st.button("📆 Today", use_container_width=True, key="today"):
+        if st.button("📆 Today",  width='stretch', key="today"):
             st.session_state.selected_date = datetime.now().date()
             st.rerun()
 
     with date_col2:
-        if st.button("📆 Tomorrow", use_container_width=True, key="tomorrow"):
+        if st.button("📆 Tomorrow",  width='stretch', key="tomorrow"):
             st.session_state.selected_date = (datetime.now() + timedelta(days=1)).date()
             st.rerun()
 
     with date_col3:
-        if st.button("📆 Day After", use_container_width=True, key="dayafter"):
+        if st.button("📆 Day After",  width='stretch', key="dayafter"):
             st.session_state.selected_date = (datetime.now() + timedelta(days=2)).date()
             st.rerun()
 
@@ -297,7 +297,7 @@ with tab1:
                 """, unsafe_allow_html=True)
 
             with col2:
-                if st.button("🔮 Predict", key=f"predict_{i}", use_container_width=True):
+                if st.button("🔮 Predict", key=f"predict_{i}",  width='stretch'):
                     if st.session_state.agent and st.session_state.agent.is_ready:
                         with st.spinner("Analyzing..."):
                             result = st.session_state.agent.predict_game(
@@ -335,7 +335,7 @@ with tab2:
         st.markdown("### ✈️ Away Team")
         team2 = st.selectbox("Select away team", team_names, key="custom_team2", index=1)
 
-    if st.button("🔮 Predict Game Outcome", type="primary", use_container_width=True, key="btn_custom_predict"):
+    if st.button("🔮 Predict Game Outcome", type="primary",  width='stretch', key="btn_custom_predict"):
         if not st.session_state.agent or not st.session_state.agent.is_ready:
             st.warning("Initialize the AI agent first!")
         elif team1 == team2:

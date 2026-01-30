@@ -177,7 +177,7 @@ class NBADataCollector:
         # ============ REST & FATIGUE ============
         if 'GAME_DATE' in cols:
             try:
-                game_log['GAME_DATE'] = pd.to_datetime(game_log['GAME_DATE'])
+                game_log['GAME_DATE'] = pd.to_datetime(game_log['GAME_DATE'], format='mixed')
                 last_game_date = game_log['GAME_DATE'].iloc[0]
                 stats['days_rest'] = (datetime.now() - last_game_date).days
                 
